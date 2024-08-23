@@ -1,0 +1,32 @@
+//    normalizedDF.show()
+    //
+    //    val managersDF = finalemployee.filter($"manager_id".isNotNull || $"direct_manager_id".isNotNull).select(
+    //      $"manager_id",
+    //      $"employee_id"
+    //    )
+    //    managersDF.show()
+
+    /**
+     * val employeeschema = StructType (Array(
+     *
+     * StructField("id" , IntegerType, false ),
+     * StructField("salary" , DoubleType, true ),
+     * StructField("joining_date" , DateType, true ),
+     * StructField("direct_manager_id" , IntegerType, true ),
+     * StructField("contract_type" , StringType, true )
+     * ))
+     *
+     * another way to solve using schema and structtype and StructField
+     */
+
+
+     infer
+
+
+
+
+     import org.apache.spark.rdd.RDD
+     import org.apache.spark.sql.types.{DateType, DoubleType, IntegerType, StringType, StructField, StructType}
+
+
+     {"id":2,"employee_email":"etombling1@altervista.org","name":"Eberhard","department":{"manager_id":602,"manager_name":"Cristian","manager_email":"ctremelliergp@moonfruit.com","department_name":"Human Resources","building_number":304},"country":"Philippines","city":"Botao","salary":"$1175.10","joining_date":"9/22/2023","contract_type":"Epoxy Flooring"}

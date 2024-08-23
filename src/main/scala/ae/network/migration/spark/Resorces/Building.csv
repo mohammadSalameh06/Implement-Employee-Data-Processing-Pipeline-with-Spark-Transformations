@@ -1,0 +1,1001 @@
+id,building_number,country,city
+1,380,Sweden,Linköping
+2,909,Indonesia,Purwosari
+3,672,China,Qiaotou
+4,737,China,Xicheng
+5,524,Russia,Shali
+6,409,China,Ankou
+7,713,China,Caohezhang
+8,397,Poland,Winnica
+9,389,Indonesia,Nihaona
+10,650,China,Tongle
+11,457,Russia,Zyablikovo
+12,749,United States,Muskegon
+13,89,United States,Grand Forks
+14,376,China,Longbei
+15,408,Saint Kitts and Nevis,Monkey Hill
+16,595,China,Qianjiang
+17,558,Mexico,Vicente Guerrero
+18,630,South Africa,Trompsburg
+19,278,China,Baidian
+20,224,China,Fengshan
+21,651,Peru,Chiguata
+22,753,Russia,Kizel
+23,495,Canada,Oak Bay
+24,560,China,Huangyuan Chengguanzhen
+25,720,France,Mulhouse
+26,857,Switzerland,Luzern
+27,40,Philippines,Arteche
+28,644,Indonesia,Pledo
+29,551,China,Wuxia
+30,195,Colombia,Cantagallo
+31,705,Sweden,Tyresö
+32,675,Peru,Quiches
+33,561,China,Yangzhou
+34,4,Philippines,Concordia
+35,392,Afghanistan,Nahrīn
+36,925,China,Dianwan
+37,84,Philippines,Maria Aurora
+38,936,China,Qingxi
+39,747,China,Yangchao
+40,804,China,Xinan
+41,384,Canada,Fruitvale
+42,216,Morocco,Talzemt
+43,526,Russia,Bogovarovo
+44,351,Tunisia,Ghār al Milḩ
+45,102,China,Tancheng
+46,42,Philippines,Caronoan West
+47,926,Malaysia,Kuching
+48,412,Ivory Coast,Adiaké
+49,419,Nigeria,Jimeta
+50,810,Colombia,Melgar
+51,590,China,Xinchengzi
+52,42,Indonesia,Patrang
+53,625,Portugal,Meruge
+54,975,Indonesia,Pandean
+55,132,Armenia,Saratak
+56,910,Poland,Rakszawa
+57,664,Peru,Challhuahuacho
+58,616,France,Paris La Défense
+59,634,Ivory Coast,Touba
+60,37,Belarus,Smilavichy
+61,93,Poland,Trzcińsko Zdrój
+62,142,Philippines,Taboc
+63,640,Togo,Dapaong
+64,595,China,Liulin
+65,647,Russia,Zavolzh’ye
+66,799,Sweden,Eskilstuna
+67,654,Curacao,Willemstad
+68,970,Russia,Dubki
+69,867,Philippines,Caibiran
+70,465,Mexico,Antonio Toledo Corro
+71,589,Poland,Bełk
+72,735,Indonesia,Parung
+73,302,China,Dingjia
+74,874,China,Xinkai
+75,195,Brazil,Nova Lima
+76,273,Mexico,Santa Cruz
+77,521,Russia,Okhotsk
+78,34,France,Avignon
+79,563,Russia,Nagorsk
+80,386,Ukraine,Izyum
+81,741,Ecuador,Cayambe
+82,462,China,Jiuzhai
+83,795,Indonesia,Klukeng
+84,426,Burkina Faso,Fada N'gourma
+85,767,Indonesia,Argasari
+86,550,Sweden,Kil
+87,122,Namibia,Ondangwa
+88,473,Argentina,Palpalá
+89,613,Sweden,Kramfors
+90,60,Russia,Orlovskiy
+91,372,Japan,Tomakomai
+92,25,Croatia,Klana
+93,407,China,Leyuan
+94,390,Nigeria,Dambarta
+95,713,Malaysia,Kota Bharu
+96,46,China,Wangzha
+97,707,Serbia,Banatska Topola
+98,534,Afghanistan,Shibirghān
+99,142,China,Taoyuan
+100,725,China,Liuzuo
+101,972,Indonesia,Lolayan
+102,464,Indonesia,Tlogoagung
+103,784,Indonesia,Dengok
+104,717,Indonesia,Tepal
+105,595,China,Jijia
+106,367,Portugal,Penteado
+107,495,Jamaica,Cambridge
+108,179,Poland,Brok
+109,781,Indonesia,Dopang
+110,943,Peru,Puno
+111,957,Russia,Zarya
+112,78,Indonesia,Tuwiri Wetan
+113,824,Poland,Wolanów
+114,436,United Kingdom,Walton
+115,236,China,Shenzhong
+116,304,Philippines,Tobias Fornier
+117,9,China,Longxi
+118,274,Ukraine,Kaniv
+119,649,Germany,Kiel
+120,471,Russia,Volzhsk
+121,818,Indonesia,Mancagahar
+122,690,China,Liushi
+123,405,Sweden,Norsborg
+124,268,China,Liuge
+125,605,Sweden,Eskilstuna
+126,31,China,Huaicheng
+127,410,Mexico,Morelos
+128,567,Russia,Il’ka
+129,922,Iceland,Álftanes
+130,352,China,Jiesheng
+131,608,Russia,Trudovoye
+132,842,China,Baozi
+133,6,Mexico,San Juan
+134,527,Ukraine,Shepetivka
+135,725,Peru,Zaña
+136,863,United States,Albany
+137,775,Guinea-Bissau,Cacheu
+138,119,Indonesia,Citeguh
+139,202,Canada,Jonquière
+140,674,France,Eybens
+141,990,France,Voiron
+142,305,Philippines,Igpit
+143,889,Colombia,El Playón
+144,143,Indonesia,Kota Ternate
+145,286,Croatia,Pregrada
+146,465,Russia,Solnechnoye
+147,545,Poland,Jawor
+148,576,Poland,Ostroróg
+149,258,Russia,Pervomayskoye
+150,85,Italy,Villanova
+151,564,China,Huanglin
+152,835,Estonia,Suure-Jaani
+153,89,Sweden,Stockholm
+154,650,Portugal,Nelas
+155,38,Poland,Barwałd Górny
+156,854,China,Jincun
+157,148,Malawi,Liwonde
+158,356,United States,Rochester
+159,807,China,Baishi
+160,291,Indonesia,Baing
+161,54,China,Hengyang
+162,536,Bangladesh,Teknāf
+163,846,Brazil,Capela
+164,580,Israel,Kafr Mandā
+165,799,Indonesia,Ngujuran
+166,847,Indonesia,Krian
+167,775,China,Tadianjie
+168,233,Mexico,Hidalgo
+169,488,Indonesia,Cikujang
+170,375,Guatemala,Santa Ana Huista
+171,969,China,Liwu
+172,378,Thailand,Na Tan
+173,679,Brazil,Petrópolis
+174,501,Philippines,Kinalansan
+175,439,Indonesia,Cigebrok
+176,924,Ukraine,Artemivs’k
+177,217,Indonesia,Blimbing
+178,309,Brazil,Palhoça
+179,635,Portugal,Lamarosa
+180,601,France,Roscoff
+181,578,Czech Republic,Dolní Bojanovice
+182,753,Indonesia,Ndewel
+183,871,Italy,Napoli
+184,645,Bulgaria,Straldzha
+185,184,Indonesia,Buniaga
+186,115,Indonesia,Sukaraja
+187,414,United States,Shawnee Mission
+188,202,China,Ximapo
+189,972,Russia,Krasnogorskoye
+190,587,Czech Republic,Havlíčkův Brod
+191,538,China,Chuzhou
+192,798,Poland,Wiskitki
+193,298,Chile,San Antonio
+194,644,Portugal,Meirinhas
+195,130,Brazil,Pinhão
+196,954,Colombia,Santa Marta
+197,228,Hungary,Pécs
+198,289,China,Tangxing
+199,473,France,Cosne-Cours-sur-Loire
+200,437,Indonesia,Growong Kidul
+201,703,Malaysia,Kota Kinabalu
+202,684,Russia,Pushkino
+203,757,Portugal,Quinta do Anjo
+204,885,Germany,Essen
+205,480,Slovenia,Bilje
+206,415,Maldives,Kudahuvadhoo
+207,944,Panama,El Quiteño
+208,303,Poland,Sośno
+209,377,Philippines,Limbuhan
+210,885,China,Liucun
+211,204,Norway,Porsgrunn
+212,320,Morocco,Telouet
+213,108,Brazil,Cristalina
+214,738,Brazil,Aimorés
+215,18,Chile,El Monte
+216,885,Japan,Kariya
+217,41,China,Nanmo
+218,408,Mexico,La Esperanza
+219,457,China,Shuangxikou
+220,407,China,Qigzhi
+221,786,Indonesia,Nagrak
+222,223,China,Shache
+223,869,China,Bulianhe
+224,330,Serbia,Lajkovac
+225,345,Yemen,Radā‘
+226,300,Portugal,Reguenga
+227,571,China,Liqiao
+228,344,Portugal,Ourentã
+229,349,Ireland,Carrigtwohill
+230,360,Poland,Nowy Dwór Gdański
+231,121,Vietnam,Thị Trấn Mỹ Lộc
+232,519,Russia,Zarechnyy
+233,629,France,Aix-en-Provence
+234,865,China,Baoshi
+235,957,Indonesia,Gareba
+236,693,Philippines,Tiguha
+237,958,United States,Las Vegas
+238,197,China,Yangfeng
+239,494,Indonesia,Nakajah
+240,268,Philippines,Gamay
+241,474,Sweden,Nyköping
+242,618,Portugal,Monte da Chaminé
+243,301,Japan,Kakuda
+244,85,China,Xuanma
+245,211,Russia,Starokorsunskaya
+246,669,Brazil,São Lourenço da Mata
+247,506,Indonesia,Gajah
+248,308,China,Shentong
+249,629,Netherlands,Haarlem
+250,321,Colombia,Sabanalarga
+251,974,Palestinian Territory,Burqah
+252,462,Russia,Petropavlovskaya
+253,715,China,Boji
+254,133,Morocco,Khemisset
+255,633,Luxembourg,Schengen
+256,884,Tunisia,Rohia
+257,197,Portugal,Corga
+258,812,China,Fangcun
+259,493,Poland,Raszczyce
+260,20,Portugal,Cabeça Gorda
+261,216,China,Woniuhe
+262,760,China,Fengjiang
+263,306,Brazil,Ipu
+264,416,Russia,Novoye Leushino
+265,884,Czech Republic,Horní Jelení
+266,893,China,Boyu
+267,945,Poland,Stryków
+268,414,Mexico,San Martin
+269,658,France,Béthune
+270,823,Philippines,Bato
+271,151,China,Jieshou
+272,157,Honduras,Marale
+273,604,Argentina,Villa de Soto
+274,852,Aland Islands,Föglö
+275,600,Philippines,San Benito
+276,648,Egypt,Ashmūn
+277,9,China,Wangcheng
+278,31,Netherlands,Hengelo
+279,412,China,Shadui
+280,389,China,Yangmingbu
+281,58,Belarus,Ros’
+282,768,Russia,Murmashi
+283,471,Indonesia,Bebedahan
+284,474,Dominican Republic,Fundación
+285,139,Malaysia,Kuantan
+286,941,Philippines,Lumatil
+287,148,China,Yunmen
+288,533,Vietnam,Lý Sơn
+289,98,Brazil,Porecatu
+290,693,Sweden,Alunda
+291,712,Japan,Bibai
+292,978,China,Yangjia
+293,119,Indonesia,Ganggawang
+294,870,China,Guancheng
+295,99,Sweden,Ängelholm
+296,370,China,Zhuyang
+297,693,Cyprus,Kissónerga
+298,904,Indonesia,Padangbai
+299,574,Russia,Sosnovoborsk
+300,363,China,Shiye
+301,195,Brazil,Cacoal
+302,565,Indonesia,Ciwaru
+303,322,Serbia,Kuštilj
+304,250,Argentina,General Cabrera
+305,119,Ireland,Cork
+306,315,China,Yunxian Chengguanzhen
+307,248,Indonesia,Dusun Desa Bunter
+308,175,Indonesia,Lengkongbarang
+309,805,Peru,Vischongo
+310,200,Russia,Blagoveshchensk
+311,484,Yemen,Al Qurayshīyah
+312,117,Panama,Cusapín
+313,228,Greece,Áno Sýros
+314,192,Philippines,Port Area
+315,347,Gambia,Abuko
+316,776,Argentina,Villa Atamisqui
+317,781,Jamaica,Williamsfield
+318,213,Ivory Coast,Abobo
+319,191,China,Huangsha
+320,371,Indonesia,Ciseda
+321,453,China,Junyang
+322,968,China,Jingmao
+323,166,China,Geyuan
+324,123,Luxembourg,Lamadelaine
+325,2,Finland,Kokemäki
+326,151,Sweden,Jönköping
+327,74,Pakistan,Hāfizābād
+328,736,Indonesia,Maliang
+329,52,Brazil,Palmital
+330,53,Poland,Łomazy
+331,593,Indonesia,Kradinan
+332,415,Czech Republic,Příbram
+333,607,Sweden,Klippan
+334,346,France,Nanterre
+335,267,Colombia,Madrid
+336,994,Japan,Katsuyama
+337,616,Portugal,Reriz
+338,4,Ukraine,Hadyach
+339,223,Ireland,Moycullen
+340,158,Indonesia,Dalo
+341,452,United States,Albuquerque
+342,27,Belarus,Turets-Bayary
+343,249,Morocco,Rislane
+344,310,Palestinian Territory,Jaba‘
+345,942,Kazakhstan,Taranovskoye
+346,734,Philippines,Polloc
+347,664,Poland,Mrzeżyno
+348,307,China,Tonghong
+349,722,United States,Anaheim
+350,982,Japan,Hannō
+351,379,Bangladesh,Jamālpur
+352,293,China,Heiheba
+353,346,Angola,Lucapa
+354,262,Luxembourg,Lenningen
+355,678,China,Songmuping
+356,590,Zambia,Isoka
+357,54,Philippines,Pangapisan
+358,12,Philippines,Naga
+359,774,China,Yongle
+360,548,Czech Republic,Zátor
+361,30,Germany,Neuss
+362,128,China,Qinnan
+363,263,Guinea,Mandiana
+364,99,Argentina,Chavarría
+365,979,Peru,Pucara
+366,357,Central African Republic,Ndélé
+367,201,Canada,Peachland
+368,773,France,Avignon
+369,717,Vietnam,Đồi Ngô
+370,501,Czech Republic,Proboštov
+371,159,Peru,Las Yaras
+372,459,Ukraine,Chynadiyovo
+373,786,China,Wenfeng Zhen
+374,815,Honduras,Marcala
+375,412,United States,Columbia
+376,563,East Timor,Suai
+377,107,Namibia,Aranos
+378,440,Brazil,Porto Ferreira
+379,897,Russia,Rzhev
+380,960,China,Taoshan
+381,403,Ukraine,Hulyaypole
+382,451,Philippines,Tambo
+383,843,Canada,Milton
+384,865,Norway,Bergen
+385,863,Philippines,Maslog
+386,29,China,Gaotuan
+387,738,China,Longzhouwan
+388,823,Greece,Triánta
+389,131,Poland,Baćkowice
+390,241,Brazil,Iturama
+391,674,China,Xiaozhi
+392,498,Croatia,Gradac
+393,908,Sweden,Knivsta
+394,511,Russia,Mayskiy
+395,166,Poland,Lutoryż
+396,563,Georgia,Batumi
+397,358,Thailand,Bang Khon Thi
+398,831,Indonesia,Bendorubuh
+399,304,China,Hexi
+400,449,New Caledonia,Nouméa
+401,966,Russia,Novaya Tavolzhanka
+402,198,Portugal,Granja
+403,209,Greece,Néa Ionía
+404,420,Mauritius,Cap Malheureux
+405,176,China,Chuntai
+406,556,France,Palaiseau
+407,928,China,Xinfeng
+408,544,Indonesia,Pakel
+409,74,Russia,Krasnogorskoye
+410,874,China,Gaokan
+411,992,Ukraine,Verkhovyna
+412,681,Colombia,La Victoria
+413,349,Bhutan,Gasa
+414,233,Russia,Volzhsk
+415,92,Canada,Bassano
+416,482,Vietnam,Tân Trụ
+417,250,China,Fenchen
+418,981,Mexico,Solidaridad
+419,150,Brazil,Novo Hamburgo
+420,799,Guinea,Coyah
+421,34,China,Dahu
+422,873,Poland,Białobrzegi
+423,64,Czech Republic,Kašperské Hory
+424,369,Philippines,Urbiztondo
+425,167,Russia,Budënnovsk
+426,831,China,Shuangkou
+427,609,Honduras,Marcala
+428,914,Croatia,Krapina
+429,932,New Zealand,Wellington
+430,449,China,Dinghuo
+431,107,Mali,Gao
+432,41,Russia,Spassk
+433,431,Canada,Neepawa
+434,419,Brazil,Penalva
+435,192,Philippines,Magsaysay
+436,659,China,Wufeng
+437,589,Colombia,Fresno
+438,963,Ukraine,Dubno
+439,333,China,Zhangjiawan
+440,998,Pakistan,Chitral
+441,73,China,Jinjia
+442,25,China,Lutou
+443,94,Portugal,Figueiras
+444,23,Argentina,Brandsen
+445,466,Philippines,Vigan
+446,898,Philippines,Santa Teresita
+447,397,Russia,Ulluaya
+448,994,Democratic Republic of the Congo,Demba
+449,236,Poland,Kiszkowo
+450,59,Morocco,El Hajeb
+451,780,Indonesia,Krajan
+452,532,Brazil,Itajubá
+453,299,Gabon,Bitam
+454,820,Poland,Łubnice
+455,806,China,Shuqiao
+456,902,China,Xingquan
+457,981,Azerbaijan,Biny Selo
+458,355,Sweden,Österbybruk
+459,88,Croatia,Otok
+460,32,Poland,Bledzew
+461,338,Portugal,Gouveia
+462,611,Bosnia and Herzegovina,Kalenderovci Donji
+463,140,Botswana,Botlhapatlou
+464,845,Sweden,Vänersborg
+465,297,Angola,Caála
+466,1000,South Korea,Andong
+467,430,China,Yunfeng
+468,53,Philippines,Manalad
+469,973,Indonesia,Krajan
+470,71,China,Shuntian
+471,112,China,Huarong
+472,9,Czech Republic,Čeladná
+473,458,China,Sanjiazi
+474,915,Indonesia,Dodol
+475,762,Morocco,Rabat
+476,443,Costa Rica,Chacarita
+477,300,Russia,Gigant
+478,617,Sweden,Frösön
+479,39,Pakistan,Barishāl
+480,384,Belarus,Kosava
+481,39,China,Shunhe
+482,316,China,Penghu
+483,533,Indonesia,Rado
+484,493,China,Kezilei
+485,64,China,Luqiao
+486,949,Cyprus,Kokkini Trimithia
+487,409,Vietnam,Giemdiem
+488,893,Poland,Leśnica
+489,280,China,Mintang
+490,434,Taiwan,Taibao
+491,703,Madagascar,Sambava
+492,819,China,Longping
+493,538,Mexico,Magisterial
+494,701,China,Yongfeng
+495,115,Philippines,Labog
+496,378,China,Lingyang
+497,402,Morocco,Tiouli
+498,559,China,Jiuzihe
+499,250,Russia,Slobodka
+500,345,Vietnam,Vân Canh
+501,424,Indonesia,Minian
+502,733,Indonesia,Bayan
+503,884,Thailand,Photharam
+504,251,Brazil,Formosa
+505,127,Czech Republic,Želešice
+506,536,Peru,Cujillo
+507,957,Japan,Matsutō
+508,732,China,Labrang
+509,564,Zambia,Kitwe
+510,310,Netherlands,Amsterdam Westpoort
+511,835,Philippines,Rizal
+512,408,Indonesia,Tabanan
+513,973,France,Istres
+514,301,Russia,Dubki
+515,689,Peru,Combapata
+516,14,Canada,Morinville
+517,575,China,Changxingbao
+518,636,Philippines,Baloc
+519,6,China,Fenghuang
+520,465,Poland,Cedry Wielkie
+521,647,Bangladesh,Nowlamary
+522,975,Russia,Kurortnyy
+523,951,Philippines,Mambulo
+524,57,Canada,L'Épiphanie
+525,6,Costa Rica,Belén
+526,943,Mexico,San Francisco
+527,611,Peru,Asquipata
+528,471,Philippines,Mabalacat
+529,369,Indonesia,Masjid
+530,658,China,Qiagai
+531,735,Kazakhstan,Bayzhansay
+532,756,United States,Chicago
+533,158,China,Jinggan
+534,569,Brazil,Horizonte
+535,23,Kazakhstan,Zhanaozen
+536,554,Philippines,Barurao
+537,69,South Korea,Gongju
+538,599,Portugal,Barrosa
+539,50,China,Meixi
+540,95,Tanzania,Kidodi
+541,499,Ivory Coast,Bondoukou
+542,317,Russia,Nazran’
+543,364,Indonesia,Sulahan
+544,421,Philippines,Cambuga
+545,667,Kazakhstan,Zhangatas
+546,487,Greece,Kalpáki
+547,920,China,Guolemude
+548,346,Czech Republic,Stříbro
+549,229,Cuba,Guane
+550,792,Peru,Marcabal
+551,756,Kazakhstan,Baykonyr
+552,393,China,Huangshapu
+553,239,Brazil,Alagoinhas
+554,16,Indonesia,Semiring
+555,95,China,Fengshuling
+556,160,Morocco,Fezna
+557,496,Norway,Hafrsfjord
+558,814,Canada,Midland
+559,862,Sweden,Lomma
+560,852,Iceland,Sandgerði
+561,432,China,Jinglongqiao
+562,392,Iran,Gonābād
+563,364,Czech Republic,Moutnice
+564,690,United States,Sacramento
+565,260,China,Hujiaba
+566,124,Burkina Faso,Diébougou
+567,396,Argentina,Yacimiento Río Turbio
+568,884,Argentina,Maimará
+569,47,Argentina,Tres Isletas
+570,378,Sweden,Vetlanda
+571,164,Portugal,Sarzedo
+572,787,China,Sanchahe
+573,918,Brazil,Santa Cecília
+574,199,Canada,Bay Roberts
+575,119,Serbia,Ševica
+576,219,China,Gaoyao
+577,294,Netherlands,Doetinchem
+578,119,Bangladesh,Sylhet
+579,634,Brazil,Coelho Neto
+580,714,Mexico,Melchor Ocampo
+581,383,China,Dasi
+582,545,Sweden,Filipstad
+583,685,Philippines,Kauran
+584,854,China,Gyangkar
+585,466,China,Shuanghejiedao
+586,242,Greece,Kokkári
+587,146,Venezuela,Zea
+588,453,Portugal,Ribeira
+589,624,Indonesia,Dukuhtengah
+590,622,China,Zongga
+591,649,Ukraine,Volochys’k
+592,480,Gabon,Bitam
+593,188,Marshall Islands,Jabat
+594,849,Philippines,Calingcuan
+595,535,France,Mantes-la-Jolie
+596,983,Russia,Peremyshl’
+597,162,United States,Milwaukee
+598,189,China,Yanglin
+599,522,Brazil,Piraquara
+600,261,Philippines,Malitubog
+601,626,Albania,Dajt
+602,439,China,Yunchi
+603,469,Russia,Kardzhin
+604,89,Mexico,Francisco I Madero
+605,725,China,Sanjiang
+606,2,South Africa,Randfontein
+607,217,Russia,Emar
+608,201,Ukraine,Zdovbytsya
+609,495,Costa Rica,Colima
+610,982,Greece,Kalávryta
+611,200,France,Angoulême
+612,627,Indonesia,Beraim
+613,86,Guinea,Faranah
+614,448,Japan,Kurayoshi
+615,282,China,Shuangyuan
+616,983,Czech Republic,Brloh
+617,156,Indonesia,Radamata
+618,601,Armenia,Malishka
+619,601,Indonesia,Rancakuya
+620,341,Thailand,Sam Phran
+621,26,Thailand,Raman
+622,826,Poland,Złoczew
+623,843,Guadeloupe,Basse-Terre
+624,813,Zambia,Namwala
+625,935,Russia,Yelizavetinskoye
+626,607,Sweden,Göteborg
+627,842,France,Avallon
+628,922,Cameroon,Lolodorf
+629,822,Yemen,Al Munīrah
+630,522,Australia,Brisbane
+631,53,Egypt,Ismailia
+632,172,Poland,Ujsoły
+633,790,China,Fengtai
+634,473,China,Beima
+635,503,China,Xinpeicun
+636,242,Sweden,Storvik
+637,531,Philippines,Minante Segundo
+638,885,South Sudan,Tonj
+639,968,China,Yangchun
+640,493,Philippines,Tobias Fornier
+641,244,China,Xiji
+642,174,Poland,Pantalowice
+643,628,Serbia,Novi Slankamen
+644,294,China,Heshe
+645,249,Russia,Lomintsevskiy
+646,402,France,Béziers
+647,259,Thailand,Na Klang
+648,955,Ireland,Portarlington
+649,23,Croatia,Velika
+650,304,Philippines,Botao
+651,222,Brazil,Cupira
+652,960,Russia,Aksarka
+653,677,Thailand,Bang Bon
+654,695,Portugal,Monte da Chaminé
+655,407,France,Meudon
+656,769,Portugal,Campanário
+657,381,Russia,Odesskoye
+658,85,Germany,Frankfurt am Main
+659,684,China,Tatrang
+660,460,North Korea,Namp’o
+661,621,North Korea,Kowŏn-ŭp
+662,744,Indonesia,Ngamba
+663,302,Philippines,San Pedro Apartado
+664,698,Philippines,Mabiton
+665,355,Indonesia,Panawuan
+666,791,Russia,Pyt-Yakh
+667,865,Sierra Leone,Gandorhun
+668,704,China,Yantianhe
+669,135,China,Gaoqiao
+670,811,Dominica,Calibishie
+671,33,Philippines,Sabangan
+672,187,South Korea,Goyang-si
+673,573,Bosnia and Herzegovina,Blatnica
+674,738,Philippines,Barong
+675,830,Indonesia,Sundawenang
+676,855,Portugal,Duas Igrejas
+677,517,Dominican Republic,Salcedo
+678,872,Croatia,Ugljan
+679,942,Iran,Ardabīl
+680,288,Mexico,San Isidro
+681,518,China,Yinjiacheng
+682,290,Brazil,Jaguarão
+683,6,United Kingdom,Normanton
+684,155,Indonesia,Bojonggaling
+685,887,China,Haicheng
+686,850,Palestinian Territory,‘Abasān al Kabīrah
+687,730,Spain,Sevilla
+688,185,Argentina,Clorinda
+689,794,Peru,Santa Eulalia
+690,930,Ukraine,Klenovyy
+691,584,Czech Republic,Nový Bydžov
+692,155,France,Rueil-Malmaison
+693,459,Peru,Simbal
+694,510,Czech Republic,Štoky
+695,311,China,Wujing
+696,406,China,Hesheng
+697,517,Norway,Bergen
+698,565,Bahrain,Madīnat ‘Īsá
+699,791,Poland,Zalewo
+700,387,Brazil,Passos
+701,108,Greece,Vokhaïkó
+702,620,Thailand,Pattani
+703,943,China,Mayang
+704,305,Mexico,Santa Anita
+705,391,Benin,Bassila
+706,315,Canada,Saskatoon
+707,871,China,Fenglu
+708,827,China,Beigong
+709,843,Nigeria,Jos
+710,355,China,Guanzhuang
+711,756,Russia,Kuz’minskiye Otverzhki
+712,405,Canada,Lloydminster
+713,577,China,Fengdian
+714,191,Tajikistan,Kolkhozobod
+715,565,Tanzania,Kilindoni
+716,289,Madagascar,Andoany
+717,867,Philippines,Manabo
+718,38,China,Gonghe
+719,533,China,Wugong
+720,857,Indonesia,Nifuboko
+721,53,Madagascar,Andapa
+722,95,Brazil,Santa Cruz das Palmeiras
+723,21,United States,Los Angeles
+724,109,Colombia,Riofrío
+725,622,Republic of the Congo,Djambala
+726,677,Thailand,Nakhon Sawan
+727,613,Indonesia,Sawo
+728,504,Canada,Flin Flon
+729,97,China,Shishang
+730,48,Peru,Licupis
+731,699,Brazil,Jacupiranga
+732,885,Greece,Kýthnos
+733,561,China,Shayu
+734,332,Slovenia,Juršinci
+735,223,Democratic Republic of the Congo,Bumba
+736,631,Canada,Vaughan
+737,461,Philippines,Sibulan
+738,522,Nigeria,Katsina
+739,949,China,Shuanghekou
+740,719,Indonesia,Banjar Kertasari
+741,744,Poland,Wyszogród
+742,978,Syria,Al Ghizlānīyah
+743,569,Germany,Berlin
+744,594,Indonesia,Barengkok
+745,378,Russia,Vyshniy Volochëk
+746,910,China,Shuhe
+747,961,Thailand,Ban Na
+748,76,Iran,Bāft
+749,21,China,Zhangye
+750,641,Indonesia,Congkar
+751,22,Philippines,Dawa-Dawa
+752,334,Colombia,Curumaní
+753,407,Malawi,Chikwawa
+754,954,Haiti,Carrefour
+755,616,Israel,Qiryat Motzkin
+756,984,Iran,Sanandaj
+757,419,Russia,Leshukonskoye
+758,119,China,Linpu
+759,239,Poland,Rokitno Szlacheckie
+760,317,Norway,Oslo
+761,643,North Korea,Wŏnsan
+762,527,Russia,Kholbon
+763,580,China,Tekes
+764,889,Kenya,Moyale
+765,502,Norway,Oslo
+766,811,Russia,Nizhniy Bestyakh
+767,331,Indonesia,Telaga
+768,217,China,Sanjiangkou
+769,424,Netherlands,'s-Hertogenbosch
+770,116,Greece,Mesopotamía
+771,676,Philippines,Pangapisan
+772,8,Latvia,Tukums
+773,699,Indonesia,Tuwiri Wetan
+774,76,China,Qiying
+775,529,Brazil,Mairinque
+776,593,Mayotte,Ouangani
+777,383,Portugal,Novais
+778,451,China,Xinfeng
+779,632,China,Micheng
+780,451,China,Biguo
+781,304,Sweden,Valbo
+782,468,United States,San Diego
+783,761,Russia,Kipen’
+784,756,Philippines,Bangued
+785,304,Philippines,Oroquieta
+786,254,China,Huxiaoqiao
+787,505,Japan,Tahara
+788,892,China,Gangba
+789,945,Sweden,Strömsund
+790,751,Russia,Inta
+791,770,Iran,Mahābād
+792,317,Russia,Taremskoye
+793,507,Libya,Gialo
+794,497,Croatia,Šenkovec
+795,214,China,Gaoqiao
+796,37,Philippines,Cambanay
+797,36,Thailand,Chum Phae
+798,705,Mexico,Emiliano Zapata
+799,964,Indonesia,Maumbawa
+800,998,China,Qingkenpao
+801,451,Japan,Toride
+802,647,Azerbaijan,Maştağa
+803,664,Ivory Coast,Anyama
+804,807,Portugal,Lanhas
+805,765,Uruguay,Paso de Carrasco
+806,32,China,Taiping
+807,724,Macedonia,Tetovo
+808,910,Russia,Mogocha
+809,738,Philippines,Ungus-Ungus
+810,189,Denmark,København
+811,342,Russia,Dauriya
+812,374,United States,Washington
+813,488,Philippines,Guyam Malaki
+814,351,Brazil,Mafra
+815,334,Thailand,Phimai
+816,823,Philippines,Rizal
+817,419,Canada,Cap-Santé
+818,950,China,Toutuo
+819,279,Indonesia,Simpanganduwet
+820,935,Saint Kitts and Nevis,Basseterre
+821,391,North Korea,Hyesan-dong
+822,793,United Kingdom,Sheffield
+823,120,Indonesia,Kujang
+824,268,Sweden,Storuman
+825,956,Angola,Uíge
+826,123,Samoa,Malie
+827,362,China,Guoduwan
+828,997,France,Marne-la-Vallée
+829,327,China,Jianmin
+830,250,China,Hedao
+831,561,Indonesia,Bagusan
+832,114,United States,Montgomery
+833,468,Portugal,Arcos
+834,151,Canada,Meadow Lake
+835,829,Canada,Oakville
+836,618,Kenya,Makueni
+837,713,China,Shatian
+838,436,Poland,Przyborów
+839,82,France,Marseille
+840,132,Russia,Vol’sk
+841,556,China,Huangtan
+842,984,Philippines,Murcia
+843,8,Zambia,Chipata
+844,626,Mongolia,Uujim
+845,839,Kazakhstan,Shemonaīkha
+846,245,Indonesia,Kadugede
+847,815,Brazil,Cabo
+848,217,Kosovo,Strellc i Epërm
+849,31,China,Baixiang
+850,32,Indonesia,Prupuh
+851,915,Colombia,Pijao
+852,532,Argentina,Villa Ascasubi
+853,165,Indonesia,Tongkiling
+854,222,Mexico,Hidalgo
+855,143,Poland,Sąspów
+856,726,Sweden,Järfälla
+857,98,Russia,Kingisepp
+858,305,Syria,‘Awaj
+859,522,Thailand,Wiphawadi
+860,934,Vietnam,Thành Phố Thái Bình
+861,121,Russia,Kingisepp
+862,873,Indonesia,Bendungan
+863,110,Trinidad and Tobago,Laventille
+864,901,Pakistan,Tangwāni
+865,942,Malta,Haz-Zebbug
+866,208,Ukraine,Lebedyn
+867,246,Serbia,Bečej
+868,376,Indonesia,Semanding Barat
+869,54,China,Xiangxiang
+870,104,Japan,Shimo-furano
+871,356,New Caledonia,Thio
+872,719,Kuwait,As Sālimīyah
+873,186,Poland,Kasina Wielka
+874,100,Bosnia and Herzegovina,Pale
+875,145,Indonesia,Mangunjaya
+876,154,Serbia,Badovinci
+877,502,Japan,Takedamachi
+878,659,Thailand,Bang Kruai
+879,739,China,Zhongdong
+880,403,Sweden,Linköping
+881,691,Indonesia,Kotabaru
+882,82,Russia,Debesy
+883,752,Poland,Dębno
+884,194,China,Wantou
+885,278,China,Renhe
+886,531,Philippines,Cayang
+887,224,Argentina,Puerto Esperanza
+888,111,Zimbabwe,Macheke
+889,1000,China,Daitou
+890,694,Canada,Neepawa
+891,205,Indonesia,Karangbenda
+892,699,Indonesia,Muraharjo
+893,522,China,Wanshan
+894,838,Czech Republic,Bukovany
+895,150,Russia,Magistral’nyy
+896,275,Poland,Radzanów
+897,991,Ireland,Ashbourne
+898,435,Philippines,San Gregorio
+899,335,Guatemala,Chuarrancho
+900,554,Kazakhstan,Aqtoghay
+901,383,France,Paris 18
+902,761,Armenia,Shnogh
+903,651,France,Orléans
+904,691,Madagascar,Ambovombe
+905,200,China,Yanghong
+906,322,Myanmar,Myaydo
+907,27,Madagascar,Antsiranana
+908,885,Egypt,Shibīn al Qanāţir
+909,516,Indonesia,Pancur
+910,348,Russia,Kvartsitnyy
+911,948,Czech Republic,Rokytnice
+912,554,China,Dongfanghong
+913,130,Malaysia,Johor Bahru
+914,735,Poland,Wałcz
+915,958,Honduras,Araulí
+916,812,France,Bollène
+917,85,Sweden,Järfälla
+918,555,China,Zhamog
+919,54,Russia,Sol’tsy
+920,62,Argentina,Yerba Buena
+921,525,Philippines,Bugo
+922,303,Thailand,Tha Maka
+923,684,Ecuador,Latacunga
+924,769,China,Heiiyugou
+925,439,Indonesia,Kadubincarung
+926,929,Ukraine,Vary
+927,629,Netherlands,Katwijk
+928,518,Niger,Dosso
+929,261,Canada,Kentville
+930,1,Brazil,Juàzeirinho
+931,365,Ukraine,Klishkivtsi
+932,710,United States,Chicago
+933,933,Mexico,Buenavista
+934,198,China,Hengli
+935,66,Greece,Filiátes
+936,632,China,Xiling
+937,139,China,Jieshui
+938,192,France,Paris 08
+939,232,China,Liangzeng
+940,341,Serbia,Kupusina
+941,867,Philippines,Rizal
+942,480,Brazil,Cambuí
+943,528,Myanmar,Thaton
+944,22,Tanzania,Liuli
+945,699,Indonesia,Babagan
+946,201,Brazil,Araras
+947,54,Sweden,Helsingborg
+948,328,Serbia,Lazarevac
+949,340,Russia,Topchikha
+950,295,Poland,Sułoszowa
+951,236,Norway,Oslo
+952,307,Italy,Salerno
+953,455,Indonesia,Bedalewun
+954,18,China,Hainan
+955,466,Portugal,Leitões
+956,229,Indonesia,Daleman
+957,998,Ukraine,Velyka Mykhaylivka
+958,336,Panama,Sabanitas
+959,987,France,Aix-en-Provence
+960,577,Sweden,Västervik
+961,967,Indonesia,Kampunglistrik
+962,297,Azerbaijan,Shushi
+963,692,Peru,Namora
+964,107,Philippines,Palauig
+965,658,Democratic Republic of the Congo,Yangambi
+966,346,China,Heshan
+967,384,Russia,Khadzhalmakhi
+968,987,Poland,Michałowo
+969,111,Russia,Novoanninskiy
+970,899,Sri Lanka,Panadura
+971,551,France,Montaigu
+972,993,Indonesia,Masu
+973,806,China,Mutangyuan
+974,672,Pakistan,Mīrpur Māthelo
+975,400,Indonesia,Pangawaren
+976,889,Portugal,Altares
+977,545,Philippines,Usab
+978,116,France,Wissembourg
+979,551,China,Aoshi
+980,768,Colombia,Flandes
+981,170,China,Mengcheng Chengguanzhen
+982,706,Botswana,Botlhapatlou
+983,689,Philippines,La Hacienda
+984,150,Philippines,Malabonot
+985,518,Indonesia,Paloh
+986,688,Russia,Babushkin
+987,965,China,Xin’an
+988,872,Uzbekistan,Koson Shahri
+989,291,Thailand,Phatthalung
+990,635,Sweden,Mora
+991,295,Indonesia,Nuamuzi
+992,685,China,Zhangdun
+993,28,Indonesia,Ngulangan
+994,247,China,Daqian
+995,381,China,Xiong’erzhai
+996,584,Sweden,Svedala
+997,758,Poland,Bodzentyn
+998,788,Brazil,São Joaquim
+999,757,Russia,Tatarka
+1000,590,Tajikistan,Khovaling
