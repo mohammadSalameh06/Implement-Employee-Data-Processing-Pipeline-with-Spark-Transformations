@@ -30,3 +30,10 @@
 
 
      {"id":2,"employee_email":"etombling1@altervista.org","name":"Eberhard","department":{"manager_id":602,"manager_name":"Cristian","manager_email":"ctremelliergp@moonfruit.com","department_name":"Human Resources","building_number":304},"country":"Philippines","city":"Botao","salary":"$1175.10","joining_date":"9/22/2023","contract_type":"Epoxy Flooring"}
+ val ndjsonFilePath = "src/test/scala/ae/network/migration/test/outputTest/ndJson/part-00000-27bfde4e-fa81-4242-a372-b736d9721be9-c000.json"
+    val source = Source.fromFile(ndjsonFilePath)
+    val ndjsonContent = try source.getLines().mkString("\n") finally source.close()
+
+     assert(ndjsonContent.nonEmpty, "NDJSON file should not be empty")
+    assert(ndjsonContent.contains("employee_email"), "NDJSON should contain employee_email field")
+    assert(ndjsonContent.contains("department_name"), "NDJSON should contain department_name field")

@@ -4,7 +4,16 @@ import org.apache.spark.sql.{DataFrame, SparkSession}
 import org.apache.spark.sql.functions._
 
 object DataTransform {
-
+  /**
+   * Transforms the employee data by joining it with the department and building data,
+   * and normalizes the result into a DataFrame with relevant columns.
+   *
+   * @param employeesDF  DataFrame containing employee data.
+   * @param departmentsDF  DataFrame containing department data.
+   * @param buildingDF  DataFrame containing building data.
+   * @param spark  Implicit SparkSession required to perform the transformations.
+   * @return  A DataFrame containing the normalized employee data, with columns.
+   */
   def transformEmployeeData(employeesDF: DataFrame, departmentsDF: DataFrame, buildingDF: DataFrame)(implicit spark: SparkSession): DataFrame = {
     import spark.implicits._
 
@@ -25,31 +34,30 @@ object DataTransform {
       )
 
     normalizedDF
+
   }
 
-  def mergeUpdatedEmployeeData(normalizedDF: DataFrame, newEmpDF: DataFrame)(implicit spark: SparkSession): DataFrame = {
+  /**
+   * Merges the normalized employee data with new employee data and enriches it by including manager details.
+   * @param normalizedDF  DataFrame containing the normalized employee data.
+   * @param newEmpDF  DataFrame containing updated employee data.
+   *
+   */
+  def mergeUpdatedEmployeeData(normalizedDF: DataFrame, newEmpDF: DataFrame, managerDF: DataFrame)(implicit spark: SparkSession): DataFrame = {
     import spark.implicits._
 
 
-    val managerDF :DataFrame = normalizedDF.select(
-      $"employee_id".as("manager_id"),
-
-      $"name".as("manager_name"),
-
-      $"employee_email".as("manager_email")
-    )
 
 
+    val finalEmployeeDF: DataFrame = newEmpDF
+      .join(managerDF, newEmpDF("direct_manager_id") === managerDF("manager_id"))
+      .join(normalizedDF, newEmpDF("id") === normalizedDF("employee_id"))
 
-
-
-    val finalEmployeeDF: DataFrame = normalizedDF
-      .join(newEmpDF, $"employee_id" === $"id", "left")
-      .join(managerDF,normalizedDF("manager_id") === managerDF("manager_id"))
       .select(
         $"employee_id".as("id"),
         normalizedDF("employee_email"),
-        $"name",
+        normalizedDF("name"),
+
         struct(
           struct(
             managerDF("manager_id"),
@@ -61,18 +69,16 @@ object DataTransform {
         ).as("department"),
         $"country",
         $"city",
-        $"salary",
-        $"joining_date",
-        $"contract_type"
+        newEmpDF("salary"),
+        newEmpDF("joining_date"),
+        newEmpDF("contract_type")
       )
 
     finalEmployeeDF
   }
-
-
-
-// i want to make a function that prints employee and managers in a seperate  dataframe to check that the data perform in the right way ,
-
+  /**
+   *i want to make a function that prints employee and managers in a seperate  dataframe to check that the data perform in the right way ,
+   */
   def transformAndExtractYear(df: DataFrame): DataFrame = {
     df.withColumn(
         "joining_date",
