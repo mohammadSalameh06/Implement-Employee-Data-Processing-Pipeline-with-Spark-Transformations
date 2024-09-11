@@ -24,11 +24,11 @@ object EmployeeDataProcessing {
      */
     val (employeesDF, departmentsDF, buildingDF, newEmpDF, managerDF) = DataReader.readData(spark)
 
-
     /**
      *DataTransformers from "DataTransform" class
      */
     val normalizedDF = DataTransform.transformEmployeeData(employeesDF,departmentsDF,buildingDF)(spark)
+    normalizedDF.show()
     val finalemployee = DataTransform.mergeUpdatedEmployeeData(normalizedDF, newEmpDF,managerDF)(spark)
     val dfWithYear = DataTransform.transformAndExtractYear(finalemployee)
 

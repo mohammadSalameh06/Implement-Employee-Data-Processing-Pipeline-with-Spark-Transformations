@@ -14,6 +14,22 @@ object DataTransform {
    * @param spark  Implicit SparkSession required to perform the transformations.
    * @return  A DataFrame containing the normalized employee data, with columns.
    */
+
+
+  /**
+   * name and datatype for the udf , then => for the return type and at last the parameter
+   */
+
+  val headmanagers: Int => String = (id: Int) => {
+    if (id >= 1 && id <= 10) {
+      "Head Manager"
+    } else {
+      "Employee"
+    }
+  }
+
+  val headmanagerUDF = udf(headmanagers)
+
   def transformEmployeeData(employeesDF: DataFrame, departmentsDF: DataFrame, buildingDF: DataFrame)(implicit spark: SparkSession): DataFrame = {
     import spark.implicits._
 
@@ -33,8 +49,10 @@ object DataTransform {
         buildingDF("city")
       )
 
-    normalizedDF
 
+
+    normalizedDF
+.withColumn("manager_status", headmanagerUDF(normalizedDF("employee_id")))
   }
 
   /**
@@ -54,7 +72,7 @@ object DataTransform {
       .join(normalizedDF, newEmpDF("id") === normalizedDF("employee_id"))
 
       .select(
-        $"employee_id".as("id"),
+        normalizedDF("employee_id").as("id"),
         normalizedDF("employee_email"),
         normalizedDF("name"),
 

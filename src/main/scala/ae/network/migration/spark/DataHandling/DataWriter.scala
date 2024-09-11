@@ -31,6 +31,6 @@ object DataWriter {
       .mode("overwrite")
       .partitionBy("department_name", "joining_year")
       .option("header", true)
-      .csv(path)
+      .csv(path )
   }
 }
