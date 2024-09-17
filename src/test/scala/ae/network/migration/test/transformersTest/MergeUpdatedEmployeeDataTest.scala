@@ -6,7 +6,7 @@ import org.apache.spark.sql.SparkSession
 import org.scalatest.funsuite.AnyFunSuite
 
 class MergeUpdatedEmployeeDataTest extends AnyFunSuite {
-
+val path= "src/test/scala/ae/network/migration/test/testData/Data"
   implicit val spark: SparkSession = SparkSession.builder()
     .master("local")
     .appName("MergeUpdatedEmployeeDataTest")
@@ -15,11 +15,11 @@ class MergeUpdatedEmployeeDataTest extends AnyFunSuite {
 
   test("mergeUpdatedEmployeeData should merge and enrich  data") {
 
-    val employeeDF = DataReader.readData(spark,"src/test/scala/ae/network/migration/test/testData/Data/EmployeeData/Employee.csv")
-    val departmentDF = DataReader.readData(spark,"src/test/scala/ae/network/migration/test/testData/Data/DepartmentData/Department.csv")
-    val buildingDF = DataReader.readData(spark,"src/test/scala/ae/network/migration/test/testData/Data/BuildingData/Building.csv")
-    val newEmpDF = DataReader.readData(spark,"src/test/scala/ae/network/migration/test/testData/Data/NewEmp/UpdatedEmployeeData.csv")
-    val managerDF = DataReader.readData(spark,"src/test/scala/ae/network/migration/test/testData/Data/ManagerData/manager.csv")
+    val employeeDF = DataReader.readData(spark, s"$path/EmployeeData")
+    val departmentDF = DataReader.readData(spark, s"$path/DepartmentData")
+    val buildingDF = DataReader.readData(spark, s"$path/BuildingData")
+    val newEmpDF = DataReader.readData(spark,s"$path/NewEmp")
+    val managerDF = DataReader.readData(spark,s"$path/ManagerData/manager.csv")
 
 
     val normalizedDF = DataTransform.transformEmployeeData(employeeDF, departmentDF, buildingDF)

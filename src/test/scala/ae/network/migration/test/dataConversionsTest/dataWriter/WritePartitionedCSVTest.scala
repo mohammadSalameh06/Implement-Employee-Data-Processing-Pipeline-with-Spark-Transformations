@@ -9,7 +9,7 @@ import org.scalatest.funsuite.AnyFunSuite
 
 
 class WritePartitionedCSVTest extends AnyFunSuite with BeforeAndAfter {
-val path= "src/test/scala/ae/network/migration/test/testData/Data/"
+val path= "src/test/scala/ae/network/migration/test/testData/Data"
 
   implicit val spark: SparkSession = SparkSession.builder()
     .appName("WritePartitionedCSVTest")

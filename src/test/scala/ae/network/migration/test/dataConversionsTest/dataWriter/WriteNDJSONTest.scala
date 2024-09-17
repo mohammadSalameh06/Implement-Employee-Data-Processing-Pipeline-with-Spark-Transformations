@@ -8,7 +8,7 @@ import org.scalatest.funsuite.AnyFunSuite
 
 
 class WriteNDJSONTest extends AnyFunSuite {
-
+  val path= "src/test/scala/ae/network/migration/test/testData/Data"
   implicit val spark: SparkSession = SparkSession.builder()
     .appName("WriteNDJSONTest")
     .master("local")
@@ -21,9 +21,9 @@ class WriteNDJSONTest extends AnyFunSuite {
    */
 
   test("writeNDJSON should write NDJSON file with correct data") {
-    val employeeDF = DataReader.readData(spark,"src/test/scala/ae/network/migration/test/testData/Data/EmployeeData/Employee.csv")
-    val departmentDF = DataReader.readData(spark,"src/test/scala/ae/network/migration/test/testData/Data/DepartmentData/Department.csv")
-    val buildingDF = DataReader.readData(spark,"src/test/scala/ae/network/migration/test/testData/Data/BuildingData/Building.csv")
+    val employeeDF = DataReader.readData(spark, s"$path/EmployeeData")
+    val departmentDF = DataReader.readData(spark, s"$path/DepartmentData")
+    val buildingDF = DataReader.readData(spark, s"$path/BuildingData")
 
 
     val normalizedDF = DataTransform.transformEmployeeData(employeeDF, departmentDF, buildingDF)

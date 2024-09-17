@@ -9,7 +9,7 @@ import org.scalatest.funsuite.AnyFunSuite
 import scala.xml.XML
 
 class WriteNormalizedXMLTest extends AnyFunSuite {
-
+  val path= "src/test/scala/ae/network/migration/test/testData/Data"
   implicit val spark: SparkSession = SparkSession.builder()
     .appName("WriteNormalizedXMLTest")
     .master("local")
@@ -21,16 +21,16 @@ class WriteNormalizedXMLTest extends AnyFunSuite {
    * and that happens after transforming csv files using the the DataTransform function.
    */
   test("writeNormalizedXML should fail if the XML file does not contain Employee elements") {
-    val employeeDF = DataReader.readData(spark, "src/test/scala/ae/network/migration/test/testData/Data/EmployeeData/Employee.csv")
-    val departmentDF = DataReader.readData(spark, "src/test/scala/ae/network/migration/test/testData/Data/DepartmentData/Department.csv")
-    val buildingDF = DataReader.readData(spark, "src/test/scala/ae/network/migration/test/testData/Data/BuildingData/Building.csv")
+    val employeeDF = DataReader.readData(spark, s"$path/EmployeeData")
+    val departmentDF = DataReader.readData(spark, s"$path/DepartmentData")
+    val buildingDF = DataReader.readData(spark, s"$path/BuildingData")
 
     val normalizedDF = DataTransform.transformEmployeeData(employeeDF, departmentDF, buildingDF)
-    DataWriter.writeNormalizedXML(normalizedDF, "src/test/scala/ae/network/migration/test/outputTest/xml_bad_case")
+    DataWriter.writeNormalizedXML(normalizedDF, "src/test/scala/ae/network/migration/test/outputTest/xml")
     /**
      * Bad Case
      */
-    val xml = XML.loadFile("src/main/Outputs/normalized_data.xml/part-00000")
+    val xml = XML.loadFile("src/test/scala/ae/network/migration/test/outputTest/xml/part-00000")
     assert((xml \\ "Employee").isEmpty)
   }
 

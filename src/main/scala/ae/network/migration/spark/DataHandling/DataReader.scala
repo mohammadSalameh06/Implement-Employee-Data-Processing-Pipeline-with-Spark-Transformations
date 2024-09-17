@@ -11,7 +11,7 @@ object DataReader {
    * @param path The path to the CSV file.
    * @return DataFrame containing the CSV data.
    */
-  def readData(implicit spark: SparkSession)(path: String): DataFrame = {
+  def readData(implicit spark: SparkSession , path :String): DataFrame = {
     spark
       .read
       .format("csv")

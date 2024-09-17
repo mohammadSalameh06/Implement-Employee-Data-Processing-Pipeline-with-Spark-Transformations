@@ -1,9 +1,9 @@
 package ae.network.migration.spark
 
 import org.apache.spark.sql.SparkSession
-
 import ae.network.migration.spark.DataHandling._
 import ae.network.migration.spark.Transformation.DataTransform
+import ae.network.migration.spark.config.sparkconfig
 /**
  *The 'EmployeeDataProcessing' object is responsible for reading-processing-writing ,
  *  first it reads the data from CSV files ,
@@ -14,10 +14,7 @@ object EmployeeDataProcessing {
   def main(args: Array[String]): Unit = {
 
     // Here is the creating of the spark session
-    val spark = SparkSession.builder()
-      .appName("StartingWithSpark")
-      .master("local[*]")
-      .getOrCreate()
+   val spark = sparkconfig.sparkBuilder()
 
     /**
      * Reading the CSV file from there Folders

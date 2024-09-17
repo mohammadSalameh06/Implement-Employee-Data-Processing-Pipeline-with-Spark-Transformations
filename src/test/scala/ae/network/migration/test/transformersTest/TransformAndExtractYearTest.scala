@@ -1,5 +1,6 @@
 package ae.network.migration.test.transformersTest
 
+import ae.network.migration.spark.DataHandling.DataReader
 import ae.network.migration.spark.Transformation.DataTransform
 //import ae.network.migration.test.dataConversionsTest.dataReader.DataReader
 
@@ -12,10 +13,12 @@ class TransformAndExtractYearTest extends AnyFunSuite {
     .master("local")
     .appName("TransformAndExtractYearTest")
     .getOrCreate()
+  val employeesDF = DataReader.readData(spark,"src/test/scala/ae/network/migration/test/testData/Data/EmployeeData/Employee.csv")
+  val departmentsDF = DataReader.readData(spark,"src/test/scala/ae/network/migration/test/testData/Data/DepartmentData/Department.csv")
+  val buildingDF = DataReader.readData(spark,"src/test/scala/ae/network/migration/test/testData/Data/BuildingData/Building.csv")
 
-
-  test("transformAndExtractYear should extract year from joining_date") {
-//    val (employeesDF, departmentsDF, buildingDF, newEmpDF, managerDF) = DataReader.readData(spark)
+//  test("transformAndExtractYear should extract year from joining_date") {
+//    val (employeeDF, departmentDF, buildingDF, newEmpDF, managerDF) = DataReader.readData(spark)
 //
 //
 //
@@ -26,5 +29,5 @@ class TransformAndExtractYearTest extends AnyFunSuite {
 //
 //    assert(resultDF.columns.contains("joining_year"))
 //    assert(resultDF.count() > 0)
-  }
+//  }
 }
