@@ -1,7 +1,7 @@
 package ae.network.migration.test.transformersTest
 
+import ae.network.migration.spark.DataHandling.DataReader
 import ae.network.migration.spark.Transformation.DataTransform
-import ae.network.migration.test.dataConversionsTest.dataReader.DataReader
 
 import org.apache.spark.sql.SparkSession
 import org.scalatest.funsuite.AnyFunSuite
@@ -13,15 +13,24 @@ class TransformEmployeeDataTest extends AnyFunSuite {
     .appName("TransformEmployeeDataTest")
     .getOrCreate()
 
+  val employeeDF = DataReader.readData(spark,"src/test/scala/ae/network/migration/test/testData/Data/EmployeeData/Employee.csv")
+  val departmentDF = DataReader.readData(spark,"src/test/scala/ae/network/migration/test/testData/Data/DepartmentData/Department.csv")
+  val buildingDF = DataReader.readData(spark,"src/test/scala/ae/network/migration/test/testData/Data/BuildingData/Building.csv")
 
+  val resultDF = DataTransform.transformEmployeeData(employeeDF, departmentDF, buildingDF)
   test("transformEmployeeData should correctly join and normalize data") {
-    val (employeesDF, departmentsDF, buildingDF, newEmpDF, managerDF) = DataReader.readData(spark)
-
-
-    val resultDF = DataTransform.transformEmployeeData(employeesDF, departmentsDF, buildingDF)
 
     assert(resultDF.columns.contains("employee_id"))
     assert(resultDF.columns.contains("department_name"))
     assert(resultDF.count() > 0)
+      }
+
+  test("transformEmployeeData should fail with incorrect DataFrame structure") {
+
+
+    assert(!resultDF.columns.contains("employee_id"))
+    assert(!resultDF.columns.contains("department_name"))
+    assert(resultDF.count() == 0)
   }
+
 }

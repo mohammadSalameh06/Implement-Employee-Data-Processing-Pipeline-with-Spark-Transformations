@@ -22,18 +22,22 @@ object EmployeeDataProcessing {
     /**
      * Reading the CSV file from there Folders
      */
-    val (employeesDF, departmentsDF, buildingDF, newEmpDF, managerDF) = DataReader.readData(spark)
-
+    val employeeDF = DataReader.readData(spark,"src/test/scala/ae/network/migration/test/testData/Data/EmployeeData/Employee.csv")
+    val departmentDF = DataReader.readData(spark,"src/test/scala/ae/network/migration/test/testData/Data/DepartmentData/Department.csv")
+    val buildingDF = DataReader.readData(spark,"src/test/scala/ae/network/migration/test/testData/Data/BuildingData/Building.csv")
+    val newEmpDF = DataReader.readData(spark,"src/test/scala/ae/network/migration/test/testData/Data/NewEmp/UpdatedEmployeeData.csv")
+    val managerDF = DataReader.readData(spark,"src/test/scala/ae/network/migration/test/testData/Data/ManagerData/manager.csv")
     /**
      *DataTransformers from "DataTransform" class
      */
-    val normalizedDF = DataTransform.transformEmployeeData(employeesDF,departmentsDF,buildingDF)(spark)
+    val normalizedDF = DataTransform.transformEmployeeData(employeeDF,departmentDF,buildingDF)(spark)
     normalizedDF.show()
     val finalemployee = DataTransform.mergeUpdatedEmployeeData(normalizedDF, newEmpDF,managerDF)(spark)
     val dfWithYear = DataTransform.transformAndExtractYear(finalemployee)
 
     /**
      *Data Writer from "DataWriter" class
+     * Dat
      */
     DataWriter.writeNormalizedXML(finalemployee,"src/main/Outputs/normalized_data.xml")
     DataWriter.writeNDJSON(finalemployee,"src/main/Outputs/ndjson")

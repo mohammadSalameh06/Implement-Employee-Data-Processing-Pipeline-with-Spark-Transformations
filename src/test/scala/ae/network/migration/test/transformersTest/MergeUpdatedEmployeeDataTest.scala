@@ -1,6 +1,6 @@
 package ae.network.migration.test.transformersTest
 
-import ae.network.migration.test.dataConversionsTest.dataReader.DataReader
+import ae.network.migration.spark.DataHandling.DataReader
 import ae.network.migration.spark.Transformation.DataTransform
 import org.apache.spark.sql.SparkSession
 import org.scalatest.funsuite.AnyFunSuite
@@ -13,13 +13,16 @@ class MergeUpdatedEmployeeDataTest extends AnyFunSuite {
     .getOrCreate()
 
 
-  test("mergeUpdatedEmployeeData should merge and enrich data") {
+  test("mergeUpdatedEmployeeData should merge and enrich  data") {
 
-    val (employeesDF, departmentsDF, buildingsDF, newEmpDF, managerDF) = DataReader.readData(spark)
+    val employeeDF = DataReader.readData(spark,"src/test/scala/ae/network/migration/test/testData/Data/EmployeeData/Employee.csv")
+    val departmentDF = DataReader.readData(spark,"src/test/scala/ae/network/migration/test/testData/Data/DepartmentData/Department.csv")
+    val buildingDF = DataReader.readData(spark,"src/test/scala/ae/network/migration/test/testData/Data/BuildingData/Building.csv")
+    val newEmpDF = DataReader.readData(spark,"src/test/scala/ae/network/migration/test/testData/Data/NewEmp/UpdatedEmployeeData.csv")
+    val managerDF = DataReader.readData(spark,"src/test/scala/ae/network/migration/test/testData/Data/ManagerData/manager.csv")
 
 
-
-    val normalizedDF = DataTransform.transformEmployeeData(employeesDF, departmentsDF, buildingsDF)
+    val normalizedDF = DataTransform.transformEmployeeData(employeeDF, departmentDF, buildingDF)
 
     val resultDF = DataTransform.mergeUpdatedEmployeeData(normalizedDF, newEmpDF,managerDF)
 
