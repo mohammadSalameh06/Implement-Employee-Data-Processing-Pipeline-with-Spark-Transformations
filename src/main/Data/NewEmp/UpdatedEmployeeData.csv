@@ -1,0 +1,1001 @@
+id,salary,joining_date,direct_manager_id,contract_type
+1,$4449.14,6/9/2024,600,Electrical
+2,$1175.10,9/22/2023,610,Epoxy Flooring
+3,$3964.96,1/13/2024,610,Ornamental Railings
+4,$5247.00,6/11/2024,609,Casework
+5,$2898.87,11/1/2023,600,Plumbing & Medical Gas
+6,$2760.55,3/22/2024,604,"Temp Fencing, Decorative Fencing and Gates"
+7,$1207.88,3/19/2024,608,HVAC
+8,$1520.15,8/4/2024,605,Masonry & Precast
+9,$7025.98,11/19/2023,603,Electrical and Fire Alarm
+10,$3797.99,12/27/2023,601,Masonry & Precast
+11,$3952.21,2/22/2024,604,Electrical
+12,$9103.94,12/18/2023,604,Overhead Doors
+13,$7675.13,9/8/2023,610,Ornamental Railings
+14,$7413.46,10/13/2023,602,Hard Tile & Stone
+15,$6318.26,1/7/2024,600,"Doors, Frames & Hardware"
+16,$7587.11,8/9/2024,602,Roofing (Metal)
+17,$4708.26,7/6/2024,609,Framing (Steel)
+18,$1384.93,11/28/2023,610,Wall Protection
+19,$1884.04,8/11/2024,600,Electrical and Fire Alarm
+20,$7795.01,12/15/2023,607,Overhead Doors
+21,$9977.37,1/22/2024,600,Construction Clean and Final Clean
+22,$3185.09,11/19/2023,604,Wall Protection
+23,$6065.39,11/28/2023,602,Epoxy Flooring
+24,$7024.92,11/21/2023,603,Hard Tile & Stone
+25,$7408.57,8/26/2023,610,Glass & Glazing
+26,$1358.00,8/16/2024,607,Electrical and Fire Alarm
+27,$4383.84,3/2/2024,601,Masonry
+28,$8353.49,7/19/2024,608,Fire Protection
+29,$5384.74,9/2/2023,602,Sitework & Site Utilities
+30,$5191.68,9/25/2023,605,Retaining Wall and Brick Pavers
+31,$4437.95,3/29/2024,606,Electrical and Fire Alarm
+32,$9567.92,9/10/2023,604,Fire Sprinkler System
+33,$4309.45,12/24/2023,606,Electrical
+34,$5892.20,10/17/2023,605,Curb & Gutter
+35,$9163.43,10/24/2023,607,Landscaping & Irrigation
+36,$4851.05,7/27/2024,606,Site Furnishings
+37,$7205.18,7/16/2024,604,Construction Clean and Final Clean
+38,$1157.09,3/22/2024,605,Soft Flooring and Base
+39,$3454.89,11/20/2023,600,Construction Clean and Final Clean
+40,$3431.50,9/10/2023,600,Fire Protection
+41,$9783.63,4/9/2024,604,Glass & Glazing
+42,$8290.85,7/28/2024,607,Drywall & Acoustical (FED)
+43,$1345.91,10/24/2023,600,Framing (Wood)
+44,$1463.26,2/15/2024,606,Curb & Gutter
+45,$5773.22,1/13/2024,603,Drywall & Acoustical (FED)
+46,$4578.00,4/12/2024,603,Epoxy Flooring
+47,$5901.20,3/18/2024,600,Casework
+48,$6537.28,12/21/2023,605,Epoxy Flooring
+49,$9624.37,3/14/2024,608,Elevator
+50,$6082.92,10/19/2023,608,Fire Protection
+51,$8358.44,7/5/2024,607,Structural & Misc Steel Erection
+52,$7409.39,12/19/2023,602,Ornamental Railings
+53,$2575.07,8/5/2024,608,Electrical
+54,$4336.94,11/2/2023,608,Glass & Glazing
+55,$7842.08,5/25/2024,607,Drywall & Acoustical (FED)
+56,$9568.38,1/14/2024,604,Landscaping & Irrigation
+57,$6602.03,12/19/2023,600,Structural and Misc Steel (Fabrication)
+58,$5889.19,8/26/2023,610,Hard Tile & Stone
+59,$7556.11,5/12/2024,606,Rebar & Wire Mesh Install
+60,$6261.62,4/1/2024,606,HVAC
+61,$4077.35,1/1/2024,606,Plumbing & Medical Gas
+62,$8666.47,11/17/2023,603,Drilled Shafts
+63,$8200.26,8/29/2023,608,RF Shielding
+64,$4183.42,12/23/2023,605,"Doors, Frames & Hardware"
+65,$3297.01,9/14/2023,605,Drywall & Acoustical (MOB)
+66,$2892.14,8/15/2024,604,Painting & Vinyl Wall Covering
+67,$3908.19,6/28/2024,609,Roofing (Asphalt)
+68,$5010.12,10/9/2023,607,Casework
+69,$5157.36,7/10/2024,606,Masonry
+70,$2407.97,8/15/2024,610,Wall Protection
+71,$6928.04,10/14/2023,604,Site Furnishings
+72,$2114.56,8/8/2024,604,Framing (Steel)
+73,$9000.12,3/19/2024,604,Termite Control
+74,$7767.05,7/19/2024,604,Masonry
+75,$9390.91,8/3/2024,607,HVAC
+76,$3420.58,2/26/2024,601,Construction Clean and Final Clean
+77,$4535.37,7/1/2024,601,Plumbing & Medical Gas
+78,$8141.59,12/8/2023,600,Glass & Glazing
+79,$1296.25,11/28/2023,603,Soft Flooring and Base
+80,$1909.77,8/4/2024,610,Drilled Shafts
+81,$1494.68,8/26/2023,601,Site Furnishings
+82,$9617.32,11/16/2023,605,Hard Tile & Stone
+83,$3026.20,2/1/2024,603,Site Furnishings
+84,$2580.10,6/23/2024,610,Framing (Steel)
+85,$4183.66,2/22/2024,602,"Temp Fencing, Decorative Fencing and Gates"
+86,$3739.70,4/1/2024,606,Epoxy Flooring
+87,$2576.88,5/14/2024,600,Marlite Panels (FED)
+88,$1303.76,8/30/2023,600,Marlite Panels (FED)
+89,$5806.30,4/3/2024,606,Prefabricated Aluminum Metal Canopies
+90,$9998.11,5/22/2024,600,Casework
+91,$2435.44,9/9/2023,610,Roofing (Metal)
+92,$4842.49,8/1/2024,608,Waterproofing & Caulking
+93,$6634.08,1/1/2024,603,Drywall & Acoustical (MOB)
+94,$5723.88,10/16/2023,600,Termite Control
+95,$1210.20,7/9/2024,601,Glass & Glazing
+96,$2401.20,9/17/2023,601,Roofing (Asphalt)
+97,$6151.81,5/24/2024,610,Plumbing & Medical Gas
+98,$3603.61,5/7/2024,603,Exterior Signage
+99,$9860.51,11/15/2023,604,Waterproofing & Caulking
+100,$7062.81,10/10/2023,603,Termite Control
+101,$6721.01,12/2/2023,601,Fire Protection
+102,$3548.47,7/26/2024,600,Overhead Doors
+103,$6476.75,10/19/2023,606,Rebar & Wire Mesh Install
+104,$5871.82,6/28/2024,607,RF Shielding
+105,$2740.88,12/8/2023,605,Prefabricated Aluminum Metal Canopies
+106,$2734.33,1/9/2024,606,Casework
+107,$6532.61,9/6/2023,605,Masonry
+108,$2798.44,1/12/2024,608,Epoxy Flooring
+109,$8090.63,8/26/2023,601,Asphalt Paving
+110,$2858.13,6/12/2024,600,Sitework & Site Utilities
+111,$8012.51,7/25/2024,610,Masonry
+112,$1683.10,1/2/2024,602,Fire Protection
+113,$7895.31,11/6/2023,607,"Temp Fencing, Decorative Fencing and Gates"
+114,$1797.50,11/29/2023,601,Glass & Glazing
+115,$6115.03,9/21/2023,605,HVAC
+116,$7554.58,10/26/2023,608,Drywall & Acoustical (FED)
+117,$4770.84,1/11/2024,607,Waterproofing & Caulking
+118,$1660.33,10/28/2023,600,Structural & Misc Steel Erection
+119,$1846.80,9/26/2023,610,Epoxy Flooring
+120,$4616.53,11/18/2023,606,Curb & Gutter
+121,$7418.72,11/21/2023,609,Glass & Glazing
+122,$8129.18,10/17/2023,605,Structural & Misc Steel Erection
+123,$5517.96,10/3/2023,606,Construction Clean and Final Clean
+124,$1592.24,9/14/2023,608,"Doors, Frames & Hardware"
+125,$7334.47,6/27/2024,603,"Temp Fencing, Decorative Fencing and Gates"
+126,$1058.66,5/21/2024,604,Masonry
+127,$5949.49,8/16/2024,607,Wall Protection
+128,$1619.74,10/12/2023,606,RF Shielding
+129,$7756.57,1/13/2024,608,Electrical
+130,$4027.94,9/24/2023,600,Sitework & Site Utilities
+131,$8008.55,7/12/2024,602,Rebar & Wire Mesh Install
+132,$7022.65,2/14/2024,602,Framing (Steel)
+133,$4361.13,3/8/2024,609,Electrical and Fire Alarm
+134,$2716.48,11/22/2023,608,Site Furnishings
+135,$5763.98,10/21/2023,609,Structural and Misc Steel (Fabrication)
+136,$2602.86,3/24/2024,605,Casework
+137,$4366.00,7/24/2024,603,Drywall & Acoustical (MOB)
+138,$5713.41,5/1/2024,605,Painting & Vinyl Wall Covering
+139,$9125.52,11/6/2023,606,Hard Tile & Stone
+140,$5479.85,4/10/2024,601,Electrical
+141,$4614.07,1/5/2024,607,Termite Control
+142,$8242.85,5/1/2024,601,Structural and Misc Steel (Fabrication)
+143,$7052.81,11/22/2023,602,Glass & Glazing
+144,$9879.07,11/22/2023,602,Roofing (Metal)
+145,$6215.98,11/27/2023,610,EIFS
+146,$3109.06,10/13/2023,609,Casework
+147,$1906.35,10/10/2023,607,Plumbing & Medical Gas
+148,$3318.07,6/24/2024,607,Epoxy Flooring
+149,$8782.81,7/20/2024,610,Sitework & Site Utilities
+150,$2726.63,10/26/2023,602,Drilled Shafts
+151,$1801.55,7/7/2024,600,Epoxy Flooring
+152,$3344.92,3/29/2024,600,Roofing (Asphalt)
+153,$5010.58,5/21/2024,600,Plumbing & Medical Gas
+154,$1399.99,7/14/2024,602,Painting & Vinyl Wall Covering
+155,$9663.45,7/27/2024,605,Termite Control
+156,$1851.49,12/9/2023,608,Granite Surfaces
+157,$9323.89,2/14/2024,603,Structural and Misc Steel (Fabrication)
+158,$9662.12,9/14/2023,604,Construction Clean and Final Clean
+159,$4700.18,8/24/2023,600,Drywall & Acoustical (MOB)
+160,$3764.88,5/8/2024,606,Waterproofing & Caulking
+161,$9715.30,3/9/2024,607,Drywall & Acoustical (FED)
+162,$1970.67,11/3/2023,604,EIFS
+163,$7069.87,7/11/2024,600,Ornamental Railings
+164,$1418.50,2/6/2024,608,Exterior Signage
+165,$6903.51,8/4/2024,607,Structural & Misc Steel Erection
+166,$3074.45,11/16/2023,604,Marlite Panels (FED)
+167,$1015.78,1/31/2024,608,Hard Tile & Stone
+168,$5403.77,4/1/2024,606,Exterior Signage
+169,$7836.66,3/9/2024,603,Rebar & Wire Mesh Install
+170,$4056.25,5/8/2024,601,Drywall & Acoustical (MOB)
+171,$8610.31,5/16/2024,600,Fire Protection
+172,$1205.32,1/9/2024,604,Landscaping & Irrigation
+173,$2376.68,1/19/2024,604,Glass & Glazing
+174,$3704.47,4/19/2024,607,Construction Clean and Final Clean
+175,$4445.35,1/8/2024,604,Construction Clean and Final Clean
+176,$1287.51,10/24/2023,600,Masonry & Precast
+177,$5954.96,7/27/2024,606,HVAC
+178,$9682.86,9/13/2023,608,Waterproofing & Caulking
+179,$3984.76,8/19/2023,601,Structural & Misc Steel Erection
+180,$3431.51,12/24/2023,601,Plumbing & Medical Gas
+181,$2058.66,6/25/2024,600,Drywall & Acoustical (MOB)
+182,$6626.94,6/22/2024,604,Rebar & Wire Mesh Install
+183,$8879.74,4/4/2024,608,Drilled Shafts
+184,$4675.19,1/19/2024,604,Construction Clean and Final Clean
+185,$7593.09,7/29/2024,600,Asphalt Paving
+186,$8248.69,7/23/2024,606,Drywall & Acoustical (MOB)
+187,$5548.35,8/30/2023,605,Marlite Panels (FED)
+188,$3613.27,3/24/2024,607,Fire Sprinkler System
+189,$2259.40,3/7/2024,610,Asphalt Paving
+190,$6506.19,12/29/2023,600,Prefabricated Aluminum Metal Canopies
+191,$1311.75,6/2/2024,600,EIFS
+192,$8573.25,12/8/2023,606,Masonry & Precast
+193,$4392.80,6/9/2024,608,Waterproofing & Caulking
+194,$4053.84,1/31/2024,603,Ornamental Railings
+195,$3995.49,12/28/2023,606,Framing (Wood)
+196,$1597.07,9/13/2023,610,Sitework & Site Utilities
+197,$3893.13,9/10/2023,602,Masonry & Precast
+198,$4265.10,3/2/2024,603,Fire Sprinkler System
+199,$9262.14,9/13/2023,601,Drywall & Acoustical (MOB)
+200,$5107.30,8/13/2024,602,Glass & Glazing
+201,$5481.82,3/15/2024,605,Fire Sprinkler System
+202,$5979.54,8/12/2024,607,Epoxy Flooring
+203,$3581.71,8/10/2024,601,Framing (Steel)
+204,$7295.55,12/4/2023,608,Curb & Gutter
+205,$7837.14,2/15/2024,609,Ornamental Railings
+206,$8014.88,1/10/2024,600,Rebar & Wire Mesh Install
+207,$7129.41,12/17/2023,603,"Doors, Frames & Hardware"
+208,$5668.76,10/10/2023,606,Retaining Wall and Brick Pavers
+209,$8381.63,4/17/2024,608,Prefabricated Aluminum Metal Canopies
+210,$2538.50,5/6/2024,609,Drilled Shafts
+211,$1289.53,1/18/2024,602,Plumbing & Medical Gas
+212,$7072.24,6/11/2024,601,Framing (Steel)
+213,$7903.88,5/8/2024,601,Waterproofing & Caulking
+214,$4530.22,1/11/2024,603,Fire Protection
+215,$5536.18,12/27/2023,602,Drywall & Acoustical (FED)
+216,$6286.38,4/19/2024,602,Soft Flooring and Base
+217,$4203.08,10/24/2023,603,Masonry & Precast
+218,$6623.76,4/17/2024,600,"Doors, Frames & Hardware"
+219,$4377.46,12/12/2023,601,Granite Surfaces
+220,$2869.77,5/23/2024,610,Masonry & Precast
+221,$6300.63,9/6/2023,603,Casework
+222,$3476.88,2/15/2024,604,Construction Clean and Final Clean
+223,$2134.98,3/25/2024,605,Casework
+224,$4783.47,4/27/2024,606,Construction Clean and Final Clean
+225,$6250.56,4/17/2024,610,Rebar & Wire Mesh Install
+226,$9638.44,3/26/2024,609,Framing (Wood)
+227,$9467.86,8/22/2023,606,Roofing (Metal)
+228,$4178.97,7/17/2024,608,Electrical
+229,$2380.23,6/20/2024,604,Asphalt Paving
+230,$6331.80,8/24/2023,604,Drywall & Acoustical (FED)
+231,$3954.92,5/21/2024,600,Waterproofing & Caulking
+232,$5122.80,8/15/2024,605,Marlite Panels (FED)
+233,$6284.59,11/5/2023,610,Electrical and Fire Alarm
+234,$4978.03,7/8/2024,604,Granite Surfaces
+235,$7911.74,2/28/2024,608,Hard Tile & Stone
+236,$1145.43,6/3/2024,603,Fire Sprinkler System
+237,$9052.99,8/28/2023,606,Wall Protection
+238,$7928.03,6/11/2024,601,Structural & Misc Steel Erection
+239,$6471.19,8/22/2023,609,Framing (Wood)
+240,$9093.21,4/2/2024,600,Landscaping & Irrigation
+241,$5281.28,12/19/2023,602,Fire Protection
+242,$5369.00,7/7/2024,609,EIFS
+243,$7205.27,10/4/2023,605,Hard Tile & Stone
+244,$6697.87,3/5/2024,610,Painting & Vinyl Wall Covering
+245,$2165.67,3/12/2024,604,"Doors, Frames & Hardware"
+246,$3784.47,7/7/2024,604,Overhead Doors
+247,$8349.36,11/6/2023,604,Granite Surfaces
+248,$9428.68,10/4/2023,606,Roofing (Metal)
+249,$5070.45,7/11/2024,605,RF Shielding
+250,$4746.35,4/21/2024,606,Sitework & Site Utilities
+251,$6770.42,7/1/2024,605,Glass & Glazing
+252,$7188.46,8/21/2023,608,Curb & Gutter
+253,$7632.07,10/24/2023,601,Termite Control
+254,$9138.32,4/25/2024,605,Structural and Misc Steel (Fabrication)
+255,$7480.98,9/18/2023,609,Landscaping & Irrigation
+256,$3229.26,7/1/2024,607,Site Furnishings
+257,$4437.23,5/3/2024,608,Asphalt Paving
+258,$3416.74,11/2/2023,607,Plumbing & Medical Gas
+259,$9792.86,1/20/2024,608,Hard Tile & Stone
+260,$6197.67,12/13/2023,601,Site Furnishings
+261,$7019.53,10/17/2023,601,Roofing (Metal)
+262,$8995.82,6/28/2024,608,Termite Control
+263,$7916.30,1/19/2024,606,Retaining Wall and Brick Pavers
+264,$6771.43,8/4/2024,603,Hard Tile & Stone
+265,$4246.37,10/4/2023,602,Site Furnishings
+266,$3171.65,11/17/2023,607,Wall Protection
+267,$7248.32,11/11/2023,605,Rebar & Wire Mesh Install
+268,$3976.08,6/18/2024,602,Electrical
+269,$2468.72,6/9/2024,609,Drywall & Acoustical (MOB)
+270,$6024.92,3/23/2024,606,Structural & Misc Steel Erection
+271,$7848.92,11/14/2023,600,Framing (Steel)
+272,$9366.98,2/1/2024,610,Overhead Doors
+273,$9410.09,6/24/2024,609,Waterproofing & Caulking
+274,$9943.67,6/29/2024,610,Roofing (Metal)
+275,$9960.66,1/2/2024,607,Wall Protection
+276,$8821.22,7/18/2024,601,Painting & Vinyl Wall Covering
+277,$9322.77,9/18/2023,609,Casework
+278,$5881.59,4/5/2024,600,Termite Control
+279,$3218.26,12/25/2023,603,Rebar & Wire Mesh Install
+280,$1638.58,4/26/2024,601,Painting & Vinyl Wall Covering
+281,$6297.40,5/15/2024,610,Soft Flooring and Base
+282,$1408.79,3/10/2024,610,Elevator
+283,$5352.80,1/30/2024,606,Electrical
+284,$5930.95,3/17/2024,609,Rebar & Wire Mesh Install
+285,$9751.07,10/21/2023,605,Framing (Wood)
+286,$4908.72,2/10/2024,600,Prefabricated Aluminum Metal Canopies
+287,$2069.66,5/14/2024,607,Marlite Panels (FED)
+288,$7585.53,10/11/2023,601,Drywall & Acoustical (FED)
+289,$9777.19,1/21/2024,600,EIFS
+290,$7448.51,12/12/2023,607,Landscaping & Irrigation
+291,$7766.86,4/12/2024,609,Masonry
+292,$1818.54,7/27/2024,609,Casework
+293,$3237.46,6/7/2024,603,Fire Sprinkler System
+294,$8792.75,10/20/2023,610,Site Furnishings
+295,$2682.73,3/2/2024,606,Curb & Gutter
+296,$5761.13,1/16/2024,603,"Doors, Frames & Hardware"
+297,$9298.38,2/1/2024,604,Site Furnishings
+298,$3365.70,5/9/2024,608,Plumbing & Medical Gas
+299,$2733.59,6/10/2024,605,Drywall & Acoustical (FED)
+300,$9102.41,2/1/2024,603,Landscaping & Irrigation
+301,$7521.73,3/31/2024,604,Drywall & Acoustical (MOB)
+302,$6835.78,7/2/2024,604,Fire Sprinkler System
+303,$4242.52,9/29/2023,603,Glass & Glazing
+304,$1730.82,8/3/2024,604,Epoxy Flooring
+305,$2357.02,12/8/2023,603,Drywall & Acoustical (MOB)
+306,$3106.38,4/18/2024,604,Masonry
+307,$5869.64,4/20/2024,601,Painting & Vinyl Wall Covering
+308,$4232.27,4/17/2024,601,Plumbing & Medical Gas
+309,$6554.34,12/11/2023,609,Rebar & Wire Mesh Install
+310,$4967.41,12/16/2023,606,Retaining Wall and Brick Pavers
+311,$5196.94,2/19/2024,602,Plumbing & Medical Gas
+312,$8588.02,12/15/2023,608,Glass & Glazing
+313,$6437.06,12/19/2023,609,Retaining Wall and Brick Pavers
+314,$3309.19,1/29/2024,604,Electrical
+315,$9123.52,11/23/2023,600,Retaining Wall and Brick Pavers
+316,$4534.87,8/24/2023,610,Termite Control
+317,$3662.27,6/27/2024,609,Retaining Wall and Brick Pavers
+318,$9311.58,8/28/2023,601,Sitework & Site Utilities
+319,$2591.27,12/30/2023,603,HVAC
+320,$1057.83,12/25/2023,606,Wall Protection
+321,$8774.88,5/14/2024,603,Plumbing & Medical Gas
+322,$1168.02,10/15/2023,609,Roofing (Asphalt)
+323,$3389.11,1/6/2024,606,Soft Flooring and Base
+324,$2443.66,4/26/2024,609,Overhead Doors
+325,$8566.14,1/3/2024,601,Curb & Gutter
+326,$3612.46,5/19/2024,603,Casework
+327,$2282.95,2/1/2024,606,"Temp Fencing, Decorative Fencing and Gates"
+328,$9937.40,3/29/2024,603,Plumbing & Medical Gas
+329,$9733.17,5/18/2024,607,Landscaping & Irrigation
+330,$5779.31,8/5/2024,610,Fire Protection
+331,$3929.08,3/7/2024,610,Construction Clean and Final Clean
+332,$1601.78,8/12/2024,609,Rebar & Wire Mesh Install
+333,$4020.31,3/25/2024,605,Roofing (Asphalt)
+334,$7655.77,2/28/2024,603,Asphalt Paving
+335,$6365.04,4/6/2024,604,Roofing (Asphalt)
+336,$1013.50,2/28/2024,610,Soft Flooring and Base
+337,$9553.14,7/31/2024,610,Asphalt Paving
+338,$1172.19,8/7/2024,607,Marlite Panels (FED)
+339,$6202.67,6/28/2024,607,Masonry
+340,$1768.03,8/19/2023,604,Framing (Wood)
+341,$5982.95,10/6/2023,602,Marlite Panels (FED)
+342,$1699.16,11/6/2023,609,EIFS
+343,$2893.65,5/9/2024,600,Plumbing & Medical Gas
+344,$8052.67,5/12/2024,609,Soft Flooring and Base
+345,$5521.03,7/22/2024,600,Drywall & Acoustical (MOB)
+346,$3324.20,12/18/2023,604,Ornamental Railings
+347,$3832.26,3/2/2024,603,Wall Protection
+348,$6017.49,10/10/2023,603,Fire Protection
+349,$2342.78,1/14/2024,604,Roofing (Asphalt)
+350,$1411.79,2/14/2024,607,Epoxy Flooring
+351,$6441.52,8/27/2023,603,Landscaping & Irrigation
+352,$4647.45,2/18/2024,605,Drywall & Acoustical (FED)
+353,$4432.07,9/1/2023,604,Hard Tile & Stone
+354,$3627.42,11/6/2023,602,Drilled Shafts
+355,$5177.52,6/26/2024,605,Site Furnishings
+356,$5281.06,10/12/2023,608,Drywall & Acoustical (FED)
+357,$9585.98,9/8/2023,601,"Doors, Frames & Hardware"
+358,$1081.16,3/6/2024,601,HVAC
+359,$5809.38,1/28/2024,605,Hard Tile & Stone
+360,$3643.10,9/16/2023,601,Epoxy Flooring
+361,$9988.31,12/15/2023,608,Elevator
+362,$7419.44,12/4/2023,605,Rebar & Wire Mesh Install
+363,$2290.77,10/10/2023,605,Retaining Wall and Brick Pavers
+364,$5007.84,3/20/2024,610,Electrical
+365,$4989.83,9/30/2023,604,Landscaping & Irrigation
+366,$6326.22,10/6/2023,604,Structural and Misc Steel (Fabrication)
+367,$8077.37,4/29/2024,601,Drilled Shafts
+368,$5098.09,3/9/2024,603,Epoxy Flooring
+369,$7659.60,11/1/2023,607,Electrical
+370,$8062.19,9/7/2023,607,Exterior Signage
+371,$6387.52,12/18/2023,609,Curb & Gutter
+372,$8666.74,12/16/2023,607,Construction Clean and Final Clean
+373,$9246.88,7/25/2024,601,Rebar & Wire Mesh Install
+374,$2817.46,4/15/2024,603,Marlite Panels (FED)
+375,$4376.07,10/22/2023,600,Sitework & Site Utilities
+376,$4539.78,12/27/2023,606,Framing (Wood)
+377,$9717.49,12/14/2023,604,Retaining Wall and Brick Pavers
+378,$8321.03,12/11/2023,601,Site Furnishings
+379,$4155.69,5/7/2024,600,Asphalt Paving
+380,$3246.66,9/18/2023,600,Fire Protection
+381,$1868.83,10/9/2023,600,Marlite Panels (FED)
+382,$4092.45,5/26/2024,603,Construction Clean and Final Clean
+383,$3719.46,1/6/2024,600,Epoxy Flooring
+384,$8117.71,1/22/2024,608,Drilled Shafts
+385,$8279.52,8/9/2024,604,Structural & Misc Steel Erection
+386,$6501.73,5/9/2024,604,Waterproofing & Caulking
+387,$7172.80,7/9/2024,600,Framing (Wood)
+388,$6115.64,6/11/2024,603,Waterproofing & Caulking
+389,$3877.38,12/17/2023,602,Fire Sprinkler System
+390,$7084.52,7/2/2024,602,Glass & Glazing
+391,$2247.70,3/20/2024,607,Masonry & Precast
+392,$1338.90,6/23/2024,610,Roofing (Asphalt)
+393,$9008.03,11/23/2023,607,Roofing (Asphalt)
+394,$6207.44,4/23/2024,603,Structural and Misc Steel (Fabrication)
+395,$7616.31,9/3/2023,605,Exterior Signage
+396,$2323.71,8/2/2024,605,Structural and Misc Steel (Fabrication)
+397,$5147.30,9/27/2023,604,Granite Surfaces
+398,$9319.74,9/21/2023,610,Structural and Misc Steel (Fabrication)
+399,$9031.61,6/9/2024,607,Fire Protection
+400,$4494.64,9/24/2023,607,Hard Tile & Stone
+401,$5949.42,10/23/2023,610,Framing (Wood)
+402,$6853.64,12/23/2023,607,Curb & Gutter
+403,$1595.23,9/21/2023,606,Ornamental Railings
+404,$2953.25,4/25/2024,605,RF Shielding
+405,$2217.13,12/12/2023,605,Structural & Misc Steel Erection
+406,$4659.99,3/8/2024,607,Marlite Panels (FED)
+407,$3620.95,2/20/2024,602,Wall Protection
+408,$5696.61,1/10/2024,601,Painting & Vinyl Wall Covering
+409,$8868.59,11/21/2023,603,Sitework & Site Utilities
+410,$3818.34,2/3/2024,610,Roofing (Asphalt)
+411,$6053.80,2/27/2024,606,Glass & Glazing
+412,$3694.92,11/28/2023,608,"Doors, Frames & Hardware"
+413,$9178.17,3/24/2024,604,Granite Surfaces
+414,$4576.89,6/20/2024,601,Marlite Panels (FED)
+415,$4506.58,6/29/2024,608,Construction Clean and Final Clean
+416,$9130.42,4/1/2024,609,Electrical
+417,$2103.36,8/13/2024,609,Plumbing & Medical Gas
+418,$9192.13,11/7/2023,604,Framing (Wood)
+419,$9619.58,5/13/2024,602,Roofing (Metal)
+420,$6762.93,7/7/2024,604,Drywall & Acoustical (FED)
+421,$2241.17,7/11/2024,608,Curb & Gutter
+422,$9701.54,8/2/2024,604,Granite Surfaces
+423,$3077.39,1/16/2024,609,RF Shielding
+424,$2459.49,3/16/2024,603,Structural and Misc Steel (Fabrication)
+425,$7286.88,5/27/2024,607,Curb & Gutter
+426,$9151.60,3/2/2024,610,RF Shielding
+427,$1339.28,12/23/2023,606,Plumbing & Medical Gas
+428,$2548.28,2/15/2024,600,Fire Protection
+429,$9799.39,11/26/2023,607,Overhead Doors
+430,$9746.61,2/2/2024,600,Granite Surfaces
+431,$3420.54,8/21/2023,601,HVAC
+432,$6176.62,10/27/2023,605,Waterproofing & Caulking
+433,$7183.79,2/23/2024,603,Structural & Misc Steel Erection
+434,$8000.50,12/1/2023,609,Structural & Misc Steel Erection
+435,$7885.58,7/5/2024,600,Sitework & Site Utilities
+436,$2849.54,6/1/2024,601,Asphalt Paving
+437,$7112.74,4/27/2024,604,Casework
+438,$6375.63,5/16/2024,604,Framing (Wood)
+439,$9279.14,1/17/2024,608,Retaining Wall and Brick Pavers
+440,$9505.23,3/11/2024,608,Granite Surfaces
+441,$5124.13,2/24/2024,602,Termite Control
+442,$9088.85,7/29/2024,604,Granite Surfaces
+443,$4891.30,7/2/2024,602,Epoxy Flooring
+444,$5170.45,3/28/2024,600,Glass & Glazing
+445,$6586.02,9/10/2023,610,Ornamental Railings
+446,$1313.01,3/8/2024,607,Prefabricated Aluminum Metal Canopies
+447,$2121.70,10/4/2023,609,"Temp Fencing, Decorative Fencing and Gates"
+448,$6420.79,6/21/2024,608,Epoxy Flooring
+449,$8226.03,1/25/2024,608,Marlite Panels (FED)
+450,$5596.38,6/22/2024,600,Landscaping & Irrigation
+451,$8859.21,9/6/2023,609,Site Furnishings
+452,$8529.85,1/2/2024,605,Painting & Vinyl Wall Covering
+453,$4815.54,11/9/2023,604,Framing (Steel)
+454,$1326.16,1/4/2024,600,Structural and Misc Steel (Fabrication)
+455,$6423.96,6/21/2024,605,Ornamental Railings
+456,$6188.73,10/18/2023,607,Glass & Glazing
+457,$8008.36,8/29/2023,602,Masonry
+458,$6110.30,10/25/2023,602,Electrical and Fire Alarm
+459,$5356.57,8/9/2024,607,Rebar & Wire Mesh Install
+460,$9960.00,6/30/2024,605,Painting & Vinyl Wall Covering
+461,$6016.76,12/6/2023,606,Masonry
+462,$7172.68,10/24/2023,601,Drilled Shafts
+463,$7151.80,4/21/2024,606,Overhead Doors
+464,$3276.46,4/24/2024,610,Waterproofing & Caulking
+465,$9111.02,6/18/2024,605,Construction Clean and Final Clean
+466,$4081.48,1/31/2024,607,Structural and Misc Steel (Fabrication)
+467,$6278.93,2/4/2024,610,EIFS
+468,$4121.10,1/27/2024,600,Ornamental Railings
+469,$6730.20,7/7/2024,602,Exterior Signage
+470,$4820.30,1/16/2024,600,Wall Protection
+471,$8926.35,4/9/2024,602,Masonry
+472,$4088.48,3/24/2024,610,Electrical
+473,$7581.67,1/6/2024,604,Roofing (Metal)
+474,$6947.18,8/27/2023,607,Elevator
+475,$6779.66,6/14/2024,607,Wall Protection
+476,$6996.96,1/7/2024,608,Site Furnishings
+477,$7359.23,7/29/2024,607,Electrical and Fire Alarm
+478,$9477.08,12/7/2023,601,Overhead Doors
+479,$5232.78,11/7/2023,607,Drywall & Acoustical (FED)
+480,$1640.84,1/21/2024,602,Granite Surfaces
+481,$6501.98,6/12/2024,601,Structural and Misc Steel (Fabrication)
+482,$4870.51,5/29/2024,603,Exterior Signage
+483,$8071.95,10/16/2023,610,Roofing (Asphalt)
+484,$4086.04,10/20/2023,602,Asphalt Paving
+485,$6458.29,3/24/2024,609,Drilled Shafts
+486,$4089.62,11/9/2023,604,Electrical
+487,$4431.03,10/31/2023,600,Roofing (Metal)
+488,$6752.47,1/6/2024,606,Termite Control
+489,$6542.81,6/13/2024,600,Epoxy Flooring
+490,$4642.40,2/14/2024,605,EIFS
+491,$5338.80,6/1/2024,607,"Doors, Frames & Hardware"
+492,$7779.18,9/28/2023,608,Drywall & Acoustical (MOB)
+493,$9489.29,10/13/2023,610,Sitework & Site Utilities
+494,$2987.28,11/18/2023,603,Masonry
+495,$8885.20,4/17/2024,603,"Doors, Frames & Hardware"
+496,$3559.95,3/6/2024,604,Sitework & Site Utilities
+497,$5374.79,6/5/2024,603,Asphalt Paving
+498,$7142.37,2/23/2024,606,Rebar & Wire Mesh Install
+499,$2709.23,2/24/2024,604,Wall Protection
+500,$9178.92,7/10/2024,603,Construction Clean and Final Clean
+501,$8120.24,4/17/2024,608,Termite Control
+502,$3343.35,4/25/2024,609,Rebar & Wire Mesh Install
+503,$1152.15,8/23/2023,609,Plumbing & Medical Gas
+504,$2113.94,4/27/2024,606,Granite Surfaces
+505,$2037.58,3/13/2024,605,Framing (Steel)
+506,$8680.92,12/8/2023,610,Waterproofing & Caulking
+507,$2072.25,11/20/2023,605,Framing (Wood)
+508,$5868.73,11/17/2023,604,Elevator
+509,$7742.05,4/17/2024,605,Ornamental Railings
+510,$4489.72,2/8/2024,605,Wall Protection
+511,$7187.47,7/5/2024,605,Hard Tile & Stone
+512,$4050.79,4/22/2024,609,Roofing (Metal)
+513,$1234.70,5/22/2024,610,Sitework & Site Utilities
+514,$3004.33,12/5/2023,600,Framing (Steel)
+515,$9690.79,6/17/2024,608,Elevator
+516,$8806.16,1/31/2024,609,Masonry
+517,$3964.46,3/19/2024,601,RF Shielding
+518,$6506.50,2/28/2024,610,Plumbing & Medical Gas
+519,$1214.41,8/2/2024,603,Hard Tile & Stone
+520,$8267.76,10/22/2023,609,Exterior Signage
+521,$8219.32,7/1/2024,609,"Temp Fencing, Decorative Fencing and Gates"
+522,$9751.99,7/1/2024,606,"Temp Fencing, Decorative Fencing and Gates"
+523,$6221.87,5/8/2024,610,"Temp Fencing, Decorative Fencing and Gates"
+524,$6047.24,12/10/2023,602,Electrical
+525,$6811.29,2/17/2024,610,Electrical and Fire Alarm
+526,$2031.12,10/22/2023,602,RF Shielding
+527,$6458.09,2/26/2024,607,Elevator
+528,$9908.02,9/11/2023,601,Painting & Vinyl Wall Covering
+529,$9915.12,2/6/2024,608,"Temp Fencing, Decorative Fencing and Gates"
+530,$1371.89,11/9/2023,600,Waterproofing & Caulking
+531,$8261.57,10/20/2023,605,Casework
+532,$6839.89,4/28/2024,610,Curb & Gutter
+533,$4498.89,9/10/2023,602,Framing (Steel)
+534,$8390.47,12/29/2023,608,Elevator
+535,$1541.73,10/5/2023,606,Landscaping & Irrigation
+536,$4352.34,9/12/2023,602,Elevator
+537,$4486.13,8/23/2023,607,Waterproofing & Caulking
+538,$6398.80,5/27/2024,602,Retaining Wall and Brick Pavers
+539,$7147.98,6/27/2024,605,Hard Tile & Stone
+540,$9573.16,9/3/2023,607,Sitework & Site Utilities
+541,$1361.99,3/28/2024,603,Framing (Wood)
+542,$3659.98,2/13/2024,601,Sitework & Site Utilities
+543,$5665.56,1/3/2024,610,Elevator
+544,$3332.38,3/10/2024,610,Fire Sprinkler System
+545,$9445.90,3/1/2024,607,Overhead Doors
+546,$7002.59,2/12/2024,607,"Temp Fencing, Decorative Fencing and Gates"
+547,$5542.17,1/13/2024,603,Glass & Glazing
+548,$5057.77,1/6/2024,608,Asphalt Paving
+549,$9856.40,2/7/2024,604,Retaining Wall and Brick Pavers
+550,$8548.77,3/26/2024,602,Fire Sprinkler System
+551,$3469.99,9/4/2023,608,Painting & Vinyl Wall Covering
+552,$7196.07,7/20/2024,603,Electrical and Fire Alarm
+553,$6786.30,1/13/2024,610,Fire Protection
+554,$9448.21,11/2/2023,602,Waterproofing & Caulking
+555,$3047.33,12/18/2023,600,Plumbing & Medical Gas
+556,$8155.93,8/9/2024,610,Landscaping & Irrigation
+557,$8229.10,12/24/2023,604,Fire Protection
+558,$6424.44,10/22/2023,607,Retaining Wall and Brick Pavers
+559,$2756.04,9/17/2023,600,Electrical and Fire Alarm
+560,$6375.78,1/8/2024,605,EIFS
+561,$9606.37,5/3/2024,601,Framing (Wood)
+562,$5446.68,6/15/2024,610,Granite Surfaces
+563,$4623.33,6/3/2024,606,Epoxy Flooring
+564,$8910.73,2/28/2024,603,Granite Surfaces
+565,$1148.25,8/10/2024,609,Prefabricated Aluminum Metal Canopies
+566,$5000.05,5/2/2024,606,Fire Sprinkler System
+567,$5314.72,5/7/2024,606,Sitework & Site Utilities
+568,$6077.09,7/31/2024,604,Glass & Glazing
+569,$1648.22,8/2/2024,602,Sitework & Site Utilities
+570,$8788.00,10/29/2023,610,Landscaping & Irrigation
+571,$1876.93,6/8/2024,602,Roofing (Asphalt)
+572,$8955.76,10/26/2023,603,Roofing (Asphalt)
+573,$4196.33,2/22/2024,601,Prefabricated Aluminum Metal Canopies
+574,$8562.66,12/23/2023,601,Rebar & Wire Mesh Install
+575,$2609.45,7/13/2024,609,Roofing (Asphalt)
+576,$8435.17,4/9/2024,610,Hard Tile & Stone
+577,$9650.27,4/8/2024,608,EIFS
+578,$7128.47,2/4/2024,603,Roofing (Metal)
+579,$2577.17,12/17/2023,602,Fire Sprinkler System
+580,$7534.58,10/10/2023,607,Overhead Doors
+581,$3722.16,5/3/2024,600,HVAC
+582,$1403.79,4/14/2024,606,Painting & Vinyl Wall Covering
+583,$3234.32,1/1/2024,604,Ornamental Railings
+584,$4991.13,5/11/2024,604,Exterior Signage
+585,$9843.20,11/12/2023,602,Soft Flooring and Base
+586,$5133.10,1/20/2024,610,Drywall & Acoustical (FED)
+587,$9670.40,1/25/2024,610,Drywall & Acoustical (MOB)
+588,$9478.83,5/27/2024,600,"Doors, Frames & Hardware"
+589,$9327.73,6/3/2024,610,Elevator
+590,$1061.96,2/16/2024,609,Soft Flooring and Base
+591,$5507.79,3/26/2024,604,"Doors, Frames & Hardware"
+592,$8974.83,8/21/2023,602,Fire Protection
+593,$6452.97,9/13/2023,609,Plumbing & Medical Gas
+594,$7820.11,7/10/2024,608,Painting & Vinyl Wall Covering
+595,$3777.77,2/9/2024,607,Ornamental Railings
+596,$8897.63,10/3/2023,602,Termite Control
+597,$5170.41,3/10/2024,602,Fire Protection
+598,$5288.98,3/21/2024,606,Glass & Glazing
+599,$7644.36,3/1/2024,608,Granite Surfaces
+600,$3269.18,12/27/2023,606,Landscaping & Irrigation
+601,$4582.30,12/18/2023,607,Electrical
+602,$8182.39,1/14/2024,606,Hard Tile & Stone
+603,$4165.61,10/27/2023,603,Framing (Steel)
+604,$2495.26,9/27/2023,605,Drilled Shafts
+605,$6721.09,10/2/2023,603,Fire Sprinkler System
+606,$3323.49,9/22/2023,601,Structural & Misc Steel Erection
+607,$9597.94,8/15/2024,602,Masonry & Precast
+608,$5387.23,12/15/2023,610,Roofing (Asphalt)
+609,$7540.30,9/18/2023,600,Elevator
+610,$5241.48,5/14/2024,609,Wall Protection
+611,$8681.92,8/20/2023,600,Drilled Shafts
+612,$2633.92,11/3/2023,603,Overhead Doors
+613,$5634.10,3/11/2024,605,Framing (Wood)
+614,$2445.55,3/21/2024,600,Curb & Gutter
+615,$8255.06,4/24/2024,609,Marlite Panels (FED)
+616,$4147.00,1/7/2024,600,Casework
+617,$4262.72,1/2/2024,604,"Temp Fencing, Decorative Fencing and Gates"
+618,$9833.16,11/7/2023,609,Waterproofing & Caulking
+619,$2309.47,3/25/2024,607,Drywall & Acoustical (FED)
+620,$1295.13,12/26/2023,603,Soft Flooring and Base
+621,$7580.43,5/19/2024,610,Framing (Steel)
+622,$8608.81,12/25/2023,601,"Temp Fencing, Decorative Fencing and Gates"
+623,$7756.65,12/26/2023,601,EIFS
+624,$9238.03,6/16/2024,601,Ornamental Railings
+625,$3436.32,7/20/2024,603,Structural and Misc Steel (Fabrication)
+626,$8248.49,1/21/2024,607,Painting & Vinyl Wall Covering
+627,$5456.73,11/9/2023,604,HVAC
+628,$5493.73,8/10/2024,601,RF Shielding
+629,$2195.42,9/24/2023,609,Termite Control
+630,$6196.30,7/3/2024,610,Masonry
+631,$4399.82,8/29/2023,602,Masonry
+632,$1665.44,7/31/2024,602,Landscaping & Irrigation
+633,$4649.29,6/25/2024,607,HVAC
+634,$6242.32,12/8/2023,608,Hard Tile & Stone
+635,$4456.58,1/23/2024,600,Electrical
+636,$6562.89,1/18/2024,607,Soft Flooring and Base
+637,$4472.54,11/17/2023,604,Epoxy Flooring
+638,$4559.70,12/16/2023,605,Structural and Misc Steel (Fabrication)
+639,$6053.89,4/10/2024,608,Sitework & Site Utilities
+640,$1974.68,5/27/2024,605,Landscaping & Irrigation
+641,$5893.79,8/12/2024,603,Overhead Doors
+642,$7740.01,2/15/2024,608,Asphalt Paving
+643,$6203.40,3/27/2024,607,Construction Clean and Final Clean
+644,$6885.88,4/10/2024,604,Masonry
+645,$3557.71,1/18/2024,607,Plumbing & Medical Gas
+646,$5404.37,9/19/2023,603,Roofing (Metal)
+647,$4233.18,3/26/2024,606,Exterior Signage
+648,$8284.41,10/22/2023,604,Landscaping & Irrigation
+649,$3558.59,8/25/2023,609,Casework
+650,$4879.70,6/25/2024,609,Marlite Panels (FED)
+651,$1260.75,8/5/2024,603,Drywall & Acoustical (FED)
+652,$2381.40,11/22/2023,610,Plumbing & Medical Gas
+653,$4333.38,9/13/2023,607,Framing (Steel)
+654,$9279.57,12/13/2023,603,Fire Protection
+655,$9644.80,4/5/2024,605,Structural and Misc Steel (Fabrication)
+656,$6818.39,9/28/2023,600,Masonry & Precast
+657,$8184.26,2/29/2024,600,Rebar & Wire Mesh Install
+658,$2167.08,6/9/2024,605,Exterior Signage
+659,$3688.37,5/17/2024,610,Fire Protection
+660,$9394.02,11/27/2023,601,Casework
+661,$4380.24,5/18/2024,605,Exterior Signage
+662,$2662.97,5/30/2024,606,Fire Sprinkler System
+663,$3233.18,3/15/2024,606,Ornamental Railings
+664,$2223.50,5/9/2024,606,Drywall & Acoustical (FED)
+665,$4865.60,3/6/2024,605,Curb & Gutter
+666,$2815.03,7/12/2024,609,Painting & Vinyl Wall Covering
+667,$9604.78,11/5/2023,603,HVAC
+668,$8730.57,11/23/2023,602,Roofing (Metal)
+669,$6527.96,10/19/2023,609,Prefabricated Aluminum Metal Canopies
+670,$7555.06,1/2/2024,607,Soft Flooring and Base
+671,$1825.73,2/21/2024,610,Landscaping & Irrigation
+672,$6876.82,11/4/2023,610,Hard Tile & Stone
+673,$8197.85,6/21/2024,610,Roofing (Metal)
+674,$9842.67,11/10/2023,610,Exterior Signage
+675,$8779.73,4/15/2024,608,Glass & Glazing
+676,$9195.24,10/20/2023,607,Structural & Misc Steel Erection
+677,$9503.84,4/3/2024,607,Retaining Wall and Brick Pavers
+678,$1217.42,9/30/2023,603,Painting & Vinyl Wall Covering
+679,$8319.42,3/10/2024,609,Landscaping & Irrigation
+680,$6962.33,7/21/2024,601,Waterproofing & Caulking
+681,$6494.02,6/12/2024,609,Sitework & Site Utilities
+682,$8963.03,7/14/2024,610,Landscaping & Irrigation
+683,$9602.56,2/23/2024,610,Drilled Shafts
+684,$6928.72,5/12/2024,610,"Temp Fencing, Decorative Fencing and Gates"
+685,$2932.87,6/17/2024,604,Granite Surfaces
+686,$6181.89,9/17/2023,600,"Temp Fencing, Decorative Fencing and Gates"
+687,$6621.81,7/25/2024,609,Sitework & Site Utilities
+688,$3080.95,3/10/2024,608,Drywall & Acoustical (FED)
+689,$7963.40,7/1/2024,610,Drilled Shafts
+690,$2500.85,4/20/2024,609,Hard Tile & Stone
+691,$7669.19,11/3/2023,601,Retaining Wall and Brick Pavers
+692,$7393.34,12/7/2023,606,Masonry
+693,$5360.44,4/29/2024,603,HVAC
+694,$3758.72,6/19/2024,603,Ornamental Railings
+695,$5372.84,2/25/2024,600,Site Furnishings
+696,$2076.60,9/10/2023,607,Painting & Vinyl Wall Covering
+697,$9128.20,9/10/2023,604,Curb & Gutter
+698,$9608.98,11/19/2023,606,Fire Sprinkler System
+699,$8973.85,6/13/2024,606,Painting & Vinyl Wall Covering
+700,$7194.85,9/15/2023,604,Masonry & Precast
+701,$5082.72,10/18/2023,607,Elevator
+702,$7040.78,3/9/2024,609,Plumbing & Medical Gas
+703,$8593.33,10/26/2023,600,Retaining Wall and Brick Pavers
+704,$8374.80,12/8/2023,600,Wall Protection
+705,$4900.29,10/17/2023,600,Electrical
+706,$3205.97,6/22/2024,600,RF Shielding
+707,$9415.35,12/10/2023,605,Soft Flooring and Base
+708,$5158.72,8/19/2023,606,Asphalt Paving
+709,$8032.88,6/13/2024,607,Drywall & Acoustical (MOB)
+710,$7763.80,11/17/2023,610,EIFS
+711,$5768.25,9/15/2023,601,Fire Sprinkler System
+712,$2347.18,12/26/2023,603,Structural and Misc Steel (Fabrication)
+713,$2194.63,10/20/2023,603,Masonry
+714,$1831.27,2/25/2024,600,Painting & Vinyl Wall Covering
+715,$6857.50,7/29/2024,601,Hard Tile & Stone
+716,$5190.05,10/17/2023,607,Curb & Gutter
+717,$2718.40,3/27/2024,600,Framing (Wood)
+718,$4001.12,10/24/2023,603,Landscaping & Irrigation
+719,$1947.66,8/18/2024,607,Wall Protection
+720,$5731.27,3/6/2024,600,Electrical
+721,$9709.43,5/26/2024,607,Framing (Steel)
+722,$4175.63,3/28/2024,603,Wall Protection
+723,$1723.42,8/30/2023,602,Sitework & Site Utilities
+724,$8277.73,9/26/2023,602,"Temp Fencing, Decorative Fencing and Gates"
+725,$4081.28,10/7/2023,602,Soft Flooring and Base
+726,$2924.69,2/26/2024,610,Retaining Wall and Brick Pavers
+727,$4067.67,8/26/2023,602,Soft Flooring and Base
+728,$5472.55,12/25/2023,605,Painting & Vinyl Wall Covering
+729,$7633.43,3/29/2024,602,Roofing (Asphalt)
+730,$1220.75,8/20/2023,610,Epoxy Flooring
+731,$8593.25,11/30/2023,610,Site Furnishings
+732,$1468.42,11/9/2023,610,Structural and Misc Steel (Fabrication)
+733,$9768.27,6/20/2024,610,Roofing (Asphalt)
+734,$9726.75,3/19/2024,601,Fire Protection
+735,$2705.31,7/2/2024,608,Epoxy Flooring
+736,$2899.55,3/24/2024,609,Fire Sprinkler System
+737,$5323.03,2/23/2024,602,Fire Protection
+738,$1658.37,1/25/2024,607,Drilled Shafts
+739,$7194.68,5/13/2024,609,Glass & Glazing
+740,$9873.78,6/10/2024,605,Fire Protection
+741,$9279.69,2/22/2024,602,Hard Tile & Stone
+742,$9590.63,4/12/2024,607,Exterior Signage
+743,$6570.86,5/14/2024,604,Framing (Wood)
+744,$2764.73,9/19/2023,603,Structural & Misc Steel Erection
+745,$8760.46,12/24/2023,608,Elevator
+746,$2919.86,6/29/2024,610,EIFS
+747,$5711.94,7/24/2024,604,Electrical and Fire Alarm
+748,$8201.22,10/16/2023,603,Framing (Wood)
+749,$4907.44,10/30/2023,603,Retaining Wall and Brick Pavers
+750,$2868.83,5/9/2024,604,Fire Protection
+751,$6174.86,4/7/2024,610,EIFS
+752,$1432.43,6/23/2024,602,Structural & Misc Steel Erection
+753,$1849.32,2/15/2024,608,Drywall & Acoustical (MOB)
+754,$9243.83,4/26/2024,601,Masonry & Precast
+755,$3851.48,2/5/2024,607,Glass & Glazing
+756,$1117.87,8/26/2023,610,Roofing (Metal)
+757,$5744.92,6/19/2024,603,Wall Protection
+758,$4221.73,5/24/2024,603,Prefabricated Aluminum Metal Canopies
+759,$7788.92,9/8/2023,601,Electrical and Fire Alarm
+760,$1952.12,7/14/2024,607,Retaining Wall and Brick Pavers
+761,$3887.39,8/11/2024,608,Marlite Panels (FED)
+762,$7445.74,10/22/2023,600,Asphalt Paving
+763,$7383.57,12/5/2023,610,Site Furnishings
+764,$5642.75,11/29/2023,607,Structural & Misc Steel Erection
+765,$3004.93,11/15/2023,608,Plumbing & Medical Gas
+766,$4402.85,12/5/2023,600,Structural and Misc Steel (Fabrication)
+767,$5152.50,6/18/2024,610,Roofing (Metal)
+768,$8367.65,9/14/2023,601,Elevator
+769,$8197.43,9/9/2023,604,Masonry
+770,$3058.68,12/11/2023,610,Electrical and Fire Alarm
+771,$5792.18,6/14/2024,600,Marlite Panels (FED)
+772,$4194.19,3/11/2024,602,Electrical
+773,$2813.69,8/1/2024,604,Plumbing & Medical Gas
+774,$1132.67,3/7/2024,604,Sitework & Site Utilities
+775,$2556.38,3/1/2024,602,Retaining Wall and Brick Pavers
+776,$5953.45,1/5/2024,601,Drywall & Acoustical (FED)
+777,$5596.30,4/20/2024,604,Roofing (Metal)
+778,$5174.21,10/13/2023,603,Wall Protection
+779,$4506.68,9/29/2023,605,Structural & Misc Steel Erection
+780,$9533.47,5/3/2024,603,Casework
+781,$5117.91,8/5/2024,610,Granite Surfaces
+782,$9742.45,11/16/2023,610,RF Shielding
+783,$2153.09,9/8/2023,608,Drywall & Acoustical (MOB)
+784,$6140.20,10/12/2023,608,Asphalt Paving
+785,$2091.77,7/16/2024,610,Drilled Shafts
+786,$5753.47,6/12/2024,609,Structural and Misc Steel (Fabrication)
+787,$8145.89,6/29/2024,601,Casework
+788,$8297.02,2/16/2024,608,Asphalt Paving
+789,$6436.66,6/27/2024,608,Glass & Glazing
+790,$7387.32,4/20/2024,605,RF Shielding
+791,$4126.98,1/27/2024,607,Asphalt Paving
+792,$3619.49,4/8/2024,606,Ornamental Railings
+793,$2579.85,12/10/2023,608,Roofing (Asphalt)
+794,$1331.26,4/5/2024,600,Ornamental Railings
+795,$2383.73,3/17/2024,608,Fire Sprinkler System
+796,$2681.49,12/18/2023,610,Asphalt Paving
+797,$7970.18,4/27/2024,601,Roofing (Asphalt)
+798,$9098.64,1/6/2024,610,Construction Clean and Final Clean
+799,$8599.38,4/25/2024,601,Site Furnishings
+800,$2125.67,4/1/2024,604,Prefabricated Aluminum Metal Canopies
+801,$6400.47,4/19/2024,602,Painting & Vinyl Wall Covering
+802,$7875.62,10/15/2023,606,Structural and Misc Steel (Fabrication)
+803,$7904.40,5/4/2024,604,Structural and Misc Steel (Fabrication)
+804,$7740.74,2/17/2024,606,Epoxy Flooring
+805,$1549.36,12/5/2023,607,Soft Flooring and Base
+806,$8859.59,12/21/2023,605,RF Shielding
+807,$7536.14,2/14/2024,609,Granite Surfaces
+808,$1740.08,6/14/2024,604,Electrical
+809,$7554.03,7/25/2024,600,Rebar & Wire Mesh Install
+810,$1857.45,8/11/2024,600,"Temp Fencing, Decorative Fencing and Gates"
+811,$3729.36,4/8/2024,600,Rebar & Wire Mesh Install
+812,$3222.15,5/12/2024,609,EIFS
+813,$9093.82,11/19/2023,607,Exterior Signage
+814,$3821.60,12/26/2023,605,Epoxy Flooring
+815,$1161.45,3/28/2024,606,Rebar & Wire Mesh Install
+816,$1544.51,3/12/2024,607,Soft Flooring and Base
+817,$6449.80,3/12/2024,606,Drywall & Acoustical (MOB)
+818,$1461.37,1/10/2024,606,Fire Sprinkler System
+819,$4948.25,4/17/2024,605,Structural & Misc Steel Erection
+820,$5591.78,12/10/2023,603,Drilled Shafts
+821,$8599.41,3/11/2024,610,Curb & Gutter
+822,$2524.04,9/29/2023,608,Hard Tile & Stone
+823,$7578.76,10/1/2023,608,Site Furnishings
+824,$1266.31,12/19/2023,607,Electrical
+825,$5582.69,7/16/2024,600,Exterior Signage
+826,$9073.54,10/21/2023,608,Casework
+827,$6754.71,10/9/2023,610,Sitework & Site Utilities
+828,$1791.51,3/29/2024,605,Landscaping & Irrigation
+829,$3243.89,5/12/2024,605,Construction Clean and Final Clean
+830,$3292.27,5/24/2024,610,Masonry & Precast
+831,$6186.76,4/17/2024,609,Sitework & Site Utilities
+832,$2839.67,7/1/2024,608,Epoxy Flooring
+833,$8570.57,10/2/2023,605,Sitework & Site Utilities
+834,$2940.07,10/23/2023,605,Drywall & Acoustical (MOB)
+835,$4580.47,12/18/2023,609,Electrical and Fire Alarm
+836,$5355.38,11/12/2023,610,Curb & Gutter
+837,$9942.64,4/6/2024,610,Fire Protection
+838,$9096.42,12/13/2023,601,Waterproofing & Caulking
+839,$7619.76,11/20/2023,608,Asphalt Paving
+840,$5514.47,6/2/2024,606,Landscaping & Irrigation
+841,$7866.25,8/28/2023,602,Site Furnishings
+842,$3864.97,10/19/2023,600,"Doors, Frames & Hardware"
+843,$1360.74,11/6/2023,604,Exterior Signage
+844,$9470.37,5/25/2024,601,Glass & Glazing
+845,$9442.70,5/12/2024,605,Epoxy Flooring
+846,$6744.54,5/1/2024,605,Exterior Signage
+847,$8406.53,7/10/2024,606,EIFS
+848,$9273.61,10/14/2023,607,Site Furnishings
+849,$2878.15,6/30/2024,607,Fire Protection
+850,$6428.51,12/18/2023,609,Epoxy Flooring
+851,$2614.30,5/21/2024,605,"Temp Fencing, Decorative Fencing and Gates"
+852,$1262.30,1/19/2024,609,Site Furnishings
+853,$6012.41,10/13/2023,602,Structural & Misc Steel Erection
+854,$3905.55,4/4/2024,603,Marlite Panels (FED)
+855,$5228.66,11/5/2023,602,Sitework & Site Utilities
+856,$9358.05,12/14/2023,604,Soft Flooring and Base
+857,$3523.14,4/1/2024,603,Site Furnishings
+858,$1752.56,9/1/2023,609,Fire Protection
+859,$5793.23,1/3/2024,600,Curb & Gutter
+860,$2901.76,2/11/2024,608,Painting & Vinyl Wall Covering
+861,$8282.19,3/13/2024,607,Structural & Misc Steel Erection
+862,$6779.73,2/19/2024,603,EIFS
+863,$4777.60,12/6/2023,603,Rebar & Wire Mesh Install
+864,$7571.04,2/27/2024,602,Electrical
+865,$7634.85,11/14/2023,609,Retaining Wall and Brick Pavers
+866,$1165.11,12/18/2023,603,Construction Clean and Final Clean
+867,$5721.77,4/16/2024,610,Marlite Panels (FED)
+868,$1536.60,12/12/2023,601,EIFS
+869,$6651.24,6/2/2024,600,Prefabricated Aluminum Metal Canopies
+870,$6637.24,2/8/2024,606,Retaining Wall and Brick Pavers
+871,$5847.78,3/25/2024,607,EIFS
+872,$2669.98,3/2/2024,609,Drywall & Acoustical (FED)
+873,$9818.89,5/9/2024,608,Framing (Steel)
+874,$6366.80,4/4/2024,608,Granite Surfaces
+875,$8685.76,9/3/2023,600,Glass & Glazing
+876,$7469.95,7/1/2024,606,Drilled Shafts
+877,$3365.95,6/13/2024,604,Framing (Wood)
+878,$5730.35,6/22/2024,604,Masonry & Precast
+879,$8914.95,8/17/2024,608,Sitework & Site Utilities
+880,$9627.59,9/11/2023,603,RF Shielding
+881,$7459.55,6/6/2024,607,Structural & Misc Steel Erection
+882,$5049.02,12/25/2023,605,Waterproofing & Caulking
+883,$6946.09,9/21/2023,604,Roofing (Metal)
+884,$7418.97,8/11/2024,605,Rebar & Wire Mesh Install
+885,$5491.50,4/4/2024,606,Glass & Glazing
+886,$1908.61,6/17/2024,610,Painting & Vinyl Wall Covering
+887,$8024.28,3/11/2024,602,Rebar & Wire Mesh Install
+888,$2614.92,10/14/2023,609,Rebar & Wire Mesh Install
+889,$4269.05,8/9/2024,606,Ornamental Railings
+890,$9532.07,3/27/2024,609,Painting & Vinyl Wall Covering
+891,$6583.50,5/18/2024,603,Plumbing & Medical Gas
+892,$9736.15,1/13/2024,607,Sitework & Site Utilities
+893,$4701.42,5/30/2024,608,Drywall & Acoustical (MOB)
+894,$5325.79,1/21/2024,610,Soft Flooring and Base
+895,$3525.13,1/16/2024,609,Structural & Misc Steel Erection
+896,$8465.48,9/12/2023,606,Asphalt Paving
+897,$6629.10,12/25/2023,600,Electrical and Fire Alarm
+898,$9647.78,8/15/2024,602,"Temp Fencing, Decorative Fencing and Gates"
+899,$6956.31,12/22/2023,610,Prefabricated Aluminum Metal Canopies
+900,$2473.73,8/20/2023,610,Sitework & Site Utilities
+901,$6218.12,1/14/2024,608,Structural & Misc Steel Erection
+902,$8377.03,1/22/2024,610,Elevator
+903,$4076.99,5/16/2024,610,Framing (Steel)
+904,$5467.54,8/6/2024,604,Ornamental Railings
+905,$1843.36,3/6/2024,603,Casework
+906,$3813.13,11/30/2023,602,Site Furnishings
+907,$2093.56,12/24/2023,607,Prefabricated Aluminum Metal Canopies
+908,$7431.29,5/18/2024,606,Masonry & Precast
+909,$8280.00,3/12/2024,603,Landscaping & Irrigation
+910,$1647.24,4/6/2024,602,Fire Protection
+911,$2847.07,2/11/2024,610,Curb & Gutter
+912,$5592.48,2/8/2024,601,RF Shielding
+913,$6057.48,12/11/2023,601,EIFS
+914,$6259.98,6/9/2024,610,Epoxy Flooring
+915,$6000.78,5/14/2024,603,Exterior Signage
+916,$3950.61,5/26/2024,604,Asphalt Paving
+917,$5058.35,2/16/2024,607,Termite Control
+918,$6397.15,1/1/2024,609,Casework
+919,$5716.75,2/5/2024,600,Electrical and Fire Alarm
+920,$2978.04,11/19/2023,607,Rebar & Wire Mesh Install
+921,$8475.17,3/28/2024,600,Masonry
+922,$6913.92,1/26/2024,610,Landscaping & Irrigation
+923,$2482.56,1/11/2024,604,Framing (Steel)
+924,$2692.45,11/1/2023,604,Construction Clean and Final Clean
+925,$8330.33,12/28/2023,608,Construction Clean and Final Clean
+926,$7099.25,8/3/2024,603,Framing (Steel)
+927,$5691.07,2/21/2024,608,Curb & Gutter
+928,$4234.01,9/6/2023,607,Glass & Glazing
+929,$8721.80,4/27/2024,610,Overhead Doors
+930,$1383.43,9/11/2023,607,Electrical
+931,$8895.76,11/3/2023,606,Casework
+932,$9251.20,9/18/2023,608,Plumbing & Medical Gas
+933,$5493.81,1/27/2024,607,Electrical
+934,$4083.49,4/13/2024,608,Overhead Doors
+935,$2874.09,3/20/2024,602,Construction Clean and Final Clean
+936,$2031.99,12/2/2023,601,Rebar & Wire Mesh Install
+937,$8273.40,12/12/2023,604,"Temp Fencing, Decorative Fencing and Gates"
+938,$2216.22,9/4/2023,605,Casework
+939,$1198.65,2/7/2024,609,Sitework & Site Utilities
+940,$2220.86,3/12/2024,610,Exterior Signage
+941,$4792.97,3/5/2024,604,Retaining Wall and Brick Pavers
+942,$3792.50,12/27/2023,601,EIFS
+943,$5148.63,9/20/2023,610,Framing (Steel)
+944,$7606.92,9/3/2023,600,RF Shielding
+945,$4540.84,12/29/2023,609,HVAC
+946,$9958.32,8/30/2023,604,Rebar & Wire Mesh Install
+947,$2360.61,12/20/2023,605,Roofing (Asphalt)
+948,$3637.16,10/8/2023,607,Structural and Misc Steel (Fabrication)
+949,$3558.59,7/27/2024,606,Electrical
+950,$8377.74,5/1/2024,605,Drywall & Acoustical (MOB)
+951,$4475.88,9/24/2023,608,Elevator
+952,$8542.89,10/20/2023,607,Retaining Wall and Brick Pavers
+953,$5064.47,7/16/2024,606,Marlite Panels (FED)
+954,$2610.51,9/29/2023,603,Painting & Vinyl Wall Covering
+955,$3472.82,11/13/2023,608,Rebar & Wire Mesh Install
+956,$6941.86,8/26/2023,603,Curb & Gutter
+957,$3987.02,11/12/2023,604,Sitework & Site Utilities
+958,$2753.93,6/15/2024,603,"Temp Fencing, Decorative Fencing and Gates"
+959,$7492.56,10/31/2023,604,Masonry & Precast
+960,$6667.60,10/22/2023,606,Overhead Doors
+961,$5780.53,10/11/2023,608,Sitework & Site Utilities
+962,$7015.71,5/31/2024,607,Glass & Glazing
+963,$3399.57,12/27/2023,606,RF Shielding
+964,$8360.06,6/21/2024,601,Casework
+965,$9402.65,8/16/2024,600,Masonry & Precast
+966,$7744.97,11/14/2023,600,Elevator
+967,$4713.23,12/26/2023,600,Retaining Wall and Brick Pavers
+968,$3387.05,6/27/2024,606,Epoxy Flooring
+969,$9454.73,12/18/2023,606,Framing (Wood)
+970,$1886.66,7/16/2024,604,"Doors, Frames & Hardware"
+971,$3562.07,8/18/2024,605,Rebar & Wire Mesh Install
+972,$1708.50,5/5/2024,610,Casework
+973,$3889.40,12/5/2023,600,EIFS
+974,$9486.75,10/26/2023,605,Roofing (Asphalt)
+975,$8425.03,2/11/2024,604,Framing (Steel)
+976,$5179.41,7/28/2024,610,Framing (Steel)
+977,$2492.72,11/6/2023,601,Prefabricated Aluminum Metal Canopies
+978,$8385.66,12/2/2023,609,Landscaping & Irrigation
+979,$1254.73,6/10/2024,604,Hard Tile & Stone
+980,$3929.91,6/13/2024,601,Rebar & Wire Mesh Install
+981,$3597.98,9/13/2023,606,Roofing (Metal)
+982,$5635.32,1/31/2024,610,Wall Protection
+983,$3805.02,7/12/2024,604,Fire Sprinkler System
+984,$9131.19,5/5/2024,604,Termite Control
+985,$8948.48,3/20/2024,607,Hard Tile & Stone
+986,$9356.47,7/3/2024,605,Structural & Misc Steel Erection
+987,$6900.75,7/16/2024,609,HVAC
+988,$5320.57,6/18/2024,608,Asphalt Paving
+989,$7422.85,4/5/2024,610,Framing (Wood)
+990,$8762.93,3/29/2024,601,Termite Control
+991,$1158.53,12/15/2023,605,Elevator
+992,$7577.50,11/22/2023,600,RF Shielding
+993,$8189.71,12/29/2023,605,Electrical
+994,$9034.75,3/28/2024,603,Granite Surfaces
+995,$2429.41,7/13/2024,607,Landscaping & Irrigation
+996,$7049.10,10/18/2023,602,Exterior Signage
+997,$5051.03,9/29/2023,602,Exterior Signage
+998,$7274.98,11/7/2023,605,Fire Protection
+999,$3622.84,9/26/2023,606,Granite Surfaces
+1000,$7280.11,10/28/2023,606,Hard Tile & Stone
